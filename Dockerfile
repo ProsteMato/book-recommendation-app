@@ -12,5 +12,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . /app/
 
+RUN python manage.py migrate
+RUN python manage.py import_data
+
 CMD ["gunicorn", "--bind", "0.0.0.0:8000", "myproject.wsgi:application"]
-CMD ["python", "manage.py", "makemigrations", "&&" "python", "manage.py", "migrate", "&&", "python", "manage.py", "import_data"]
