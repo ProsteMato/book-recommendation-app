@@ -13,3 +13,4 @@ services:
       - DB_PORT=${DB_PORT}
       - KAGGLE_USERNAME=${KAGGLE_USERNAME}
       - KAGGLE_KEY=${KAGGLE_KEY}
+      - DEBUG=${DEBUG}
