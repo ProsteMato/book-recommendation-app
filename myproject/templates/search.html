@@ -1,0 +1,57 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div style="height: 50vh;" class="bg-gradient-to-b from-purple-900 to-black flex flex-col">
+    <div class="flex flex-col justify-center items-center w-full">
+        <div>
+            <h1 class="text-white text-5xl mb-20 mt-10">Book Recommender</h1>
+        </div>
+        <div class="text-center w-1/2">
+            <select id="search-bar" placeholder="Search for a book..."></select>
+        </div>
+    </div>
+</div>
+<div id="search-results" class="w-full max-w-4xl mx-auto p-8 bg-black text-white mt-10 text-center"></div>
+
+<script>
+    $(document).ready(function() {
+        $('#search-bar').selectize({
+            valueField: 'title',
+            labelField: 'title',
+            searchField: 'title',
+            placeholder: 'Search for a book...',
+            load: function(query, callback) {
+                if (!query.length) return callback();
+                $.ajax({
+                    url: '{% url "autocomplete" %}',
+                    type: 'GET',
+                    dataType: 'json',
+                    data: {
+                        query: query
+                    },
+                    error: function() {
+                        callback();
+                    },
+                    success: function(res) {
+                        callback(res.results);
+                    }
+                });
+            },
+            onChange: function(value) {
+                if (value) {
+                    $.ajax({
+                        url: '{% url "search_books" %}',
+                        type: 'GET',
+                        data: {
+                            query: value
+                        },
+                        success: function(data) {
+                            $('#search-results').html(data);
+                        }
+                    });
+                }
+            }
+        });
+    });
+</script>
+{% endblock %}

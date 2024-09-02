@@ -1,0 +1,3458 @@
+name,id
+Richard Bruce Wright,1
+Amy Tan,2
+Scott Turow,3
+Canfield. Jack,4
+John Grisham,5
+Toni Morrison,6
+The Onion,7
+Celia Brooks Brown,8
+Rich Shapero,9
+Michael Crichton,10
+C. S. Lewis,11
+Arthur Phillips,12
+Mark Salzman,13
+Harper Lee,14
+Laura Hillenbrand,15
+Barbara Kingsolver,16
+Anne Rivers Siddons,17
+Dean R. Koontz,18
+Mary Higgins Clark,19
+Dean Koontz,20
+Patricia Cornwell,21
+J. D. Robb,22
+Maeve Binchy,23
+Tim Lahaye,24
+Mark Helprin,25
+Larry Mcmurtry,26
+Carl Sagan,27
+Anne Tyler,28
+Thomas Hardy,29
+Valerie Frankel,30
+Benjamin Hoff,31
+H. Jackson Brown,32
+Robert A. Heinlein,33
+Philip Pullman,34
+Michael Ondaatje,35
+Mike Gayle,36
+J. D. Salinger,37
+J. R. R. Tolkien,38
+John Berendt,39
+Jennifer Crusie,40
+Jane Heller,41
+Robert T. Kiyosaki,42
+Ken Follett,43
+Louis De Bernieres,44
+Mitch Albom,45
+Sandra Brown,46
+James Patterson,47
+Stuart Woods,48
+Iris Johansen,49
+Dan Brown,50
+Joe Hutsko,51
+Anita Shreve,52
+Ann Rule,53
+Paul Theroux,54
+Stephen King,55
+Tom Clancy,56
+Gabriel Garacia Marquez,57
+Rebecca Wells,58
+Tony Hillerman,59
+Robert James Waller,60
+Ian Mcewan,61
+Anne Frasier,62
+Kay Hooper,63
+Daphne Du Maurier,64
+Nathaniel Hawthorne,65
+Laura Wolf,66
+Susan Grant,67
+Barbara Vine,68
+Jane Lindskold,69
+David Baldacci,70
+Douglas Adams,71
+Mary Lawson,72
+Willa Cather,73
+Olivia Goldsmith,74
+Helen Fielding,75
+Jane Austen,76
+Lilian Jackson Braun,77
+Piers Anthony,78
+Ray Bradbury,79
+Paolo Coelho,80
+Michael Moore,81
+Arundhati Roy,82
+Richard North Patterson,83
+Arthur Golden,84
+Kent Haruf,85
+Patricia D. Cornwell,86
+Kathleen E. Woodiwiss,87
+Belva Plain,88
+Mark Haddon,89
+Ann Brashares,90
+Nicholas Sparks,91
+John Saul,92
+Lorna Landvik,93
+Steve Thayer,94
+Tracy Chevalier,95
+Judith Kelman,96
+Michael Palmer,97
+Frank Mccourt,98
+Malachy Mccourt,99
+Alexander Mccall Smith,100
+Gregory Maguire,101
+Yann Martel,102
+Al Franken,103
+Donna Tartt,104
+Terry Pratchett,105
+Louise Rennison,106
+Charles De Lint,107
+Oscar Wilde,108
+Sue Townsend,109
+Sophie Kinsella,110
+Isabel Wolff,111
+Louisa May Alcott,112
+George Orwell,113
+Isabel Allende,114
+Joseph Heller,115
+Neil Gaiman,116
+Alan Moore,117
+Tom Wolfe,118
+Brady Udall,119
+Homer Hickam,120
+Pearl Abraham,121
+Sebastian Junger,122
+David Brin,123
+T. Coraghessan Boyle,124
+John Darnton,125
+Paul Reiser,126
+Dave Barry,127
+Frank M. Robinson,128
+Mary Jane Clark,129
+Mary Wollstonecraft Shelley,130
+A. Manette Ansay,131
+Sarah Waters,132
+Anne Frank,133
+Greg Palast,134
+Nevada Barr,135
+Paul Auster,136
+John Irving,137
+William Gerald Golding,138
+Ann Patchett,139
+Roald Dahl,140
+Sue Monk Kidd,141
+Colleen Mccullough,142
+Joanne Harris,143
+Thomas Cahill,144
+Jane Smiley,145
+Dick Francis,146
+Nora Roberts,147
+Barbara Delinsky,148
+Joan Anderson,149
+Antoine De Saint-Exupгѓв©Ry,150
+Richard Bachman,151
+"Scott, Cunningham",152
+Lewis Carroll,153
+Mark Twain,154
+Dog Mary Crow,155
+Alice Sebold,156
+Thomas Harris,157
+Edward Rutherfurd,158
+Margaret Atwood,159
+Dorothy Allison,160
+Maya Angelou,161
+Elizabeth Wurtzel,162
+Don Miguel Ruiz,163
+Leo Tolstoy,164
+Sandra Dallas,165
+Anne Mccaffrey,166
+Laura Zigman,167
+Margaret Truman,168
+Luanne Rice,169
+Richard Russo,170
+Jostein Gaarder,171
+Anna Quindlen,172
+Diane Johnson,173
+Wally Lamb,174
+Adeline Yen Mah,175
+Barbara Ehrenreich,176
+John Le Carrгѓв©,177
+Ted L. Nancy,178
+Joyce Reardon,179
+Sidney Sheldon,180
+Tim Dorsey,181
+Elmore Leonard,182
+Anita Diamant,183
+Patricia Daniels Cornwell,184
+Martha Grimes,185
+Mil Millington,186
+Emma Mclaughlin,187
+Adele Lang,188
+Catherine Coulter,189
+Dominick Dunne,190
+Clive Cussler,191
+Jonathan Safran Foer,192
+Francesca Marciano,193
+Julia Glass,194
+Tawni O.'Dell,195
+Jennifer Weiner,196
+Danielle Steel,197
+Russell Banks,198
+Karen Robards,199
+Faye Kellerman,200
+Jacquelyn Mitchard,201
+Diane Mott Davidson,202
+Candace Bushnell,203
+Kristin Hannah,204
+Michael Marshall,205
+Wilbur Smith,206
+Michael Slade,207
+John Sandford,208
+Tami Hoag,209
+Robin Cook,210
+Armistead Maupin,211
+Julie Morgenstern,212
+Peter Straub,213
+Lisa Jackson,214
+Cokie Roberts,215
+Justine Korman,216
+Beverly Cleary,217
+Mercedes Lackey,218
+Charles Frazier,219
+Fannie Flagg,220
+Laura Ingalls Wilder,221
+Lisa Gardner,222
+Julia Spencer-Fleming,223
+Sharyn Mccrumb,224
+Eric Schlosser,225
+Gail Carson Levine,226
+David Schickler,227
+Judith Mcnaught,228
+Janet Evanovich,229
+Sylvia Plath,230
+Fern Michaels,231
+Sarah Ban Breathnach,232
+Alice Hoffman,233
+Lisa Scottoline,234
+Spencer Johnson,235
+Elizabeth Benedict,236
+Martha Beck,237
+Jack Kerouac,238
+Ernest Hemingway,239
+Alisa Kwitney,240
+Billie Letts,241
+Melissa Bank,242
+Moon Unit Zappa,243
+Gwyn Hyman Rubio,244
+Elisabeth Robinson,245
+Audrey Niffenegger,246
+Chaim Potok,247
+Alain-Fournier,248
+Rene Barjavel,249
+C. Baudelaire,250
+Jane Hamilton,251
+Jack Higgins,252
+David Gutterson,253
+Bernhard Schlink,254
+Eric Jerome Dickey,255
+Patricia Gaffney,256
+Richard Paul Evans,257
+Marc Levy,258
+Jennifer Lauck,259
+Jeanne Ray,260
+Tony Parsons,261
+Laura Esquivel,262
+Jan Karon,263
+Cormac Mccarthy,264
+Sally Mandel,265
+Linda Lay Shuler,266
+Lemony Snicket,267
+David Lodge,268
+Iain Banks,269
+Jacob Weisberg,270
+Bernard Werber,271
+Allan Zola Kronzek,272
+Elizabeth Strout,273
+David Sedaris,274
+Jill Thompson,275
+Jeff Foxworthy,276
+Terry Brooks,277
+Tamora Pierce,278
+Carolyn Chute,279
+John Varley,280
+Christopher Rice,281
+Lee Smith,282
+Nick Hornby,283
+W. Michael Gear,284
+Peter Hoeg,285
+Erma Bombeck,286
+Karen Hesse,287
+Diane Duane,288
+Rachel Roberts,289
+Lois Lowry,290
+Stephen Donaldson,291
+Stephen R. Donaldson,292
+Ellen Rimbauer,293
+Michael A. Stackpole,294
+Carole Matthews,295
+Marion Zimmer Bradley,296
+Orson Scott Card,297
+Kate Chopin,298
+William Maples,299
+Michael Connelly,300
+John T. Lescroart,301
+John Jakes,302
+Alice Mcdermott,303
+Eileen Goudge,304
+Walter Cronkite,305
+Elizabeth Peters,306
+Emily Bronte,307
+John A. Keel,308
+Meg Cabot,309
+Jeffrey Eugenides,310
+Judith Guest,311
+Michael Chabon,312
+Barbara Michaels,313
+Norton Juster,314
+Michael Blake,315
+Carl Hiaasen,316
+William Goldman,317
+Mark Bowden,318
+Alain De Botton,319
+Chuck Palahniuk,320
+E. Annie Proulx,321
+Adam Davies,322
+Nicholas Evans,323
+Milans Kundera,324
+L. M. Montgomery,325
+Charles Bukowski,326
+Haruki Murakami,327
+Frances Hodgson Burnett,328
+Patricia C. Wrede,329
+Ann-Marie Macdonald,330
+Sue Miller,331
+Sheri S. Tepper,332
+Dr Seuss,333
+Tobias Wolff,334
+Judy Blunt,335
+William Trevor,336
+Alice Walker,337
+Wallace Stegner,338
+Don Delillo,339
+Ralph Ellison,340
+Shel Silverstein,341
+Jhumpa Lahiri,342
+Charles Sullivan,343
+Tom Robbins,344
+Ursula Hegi,345
+Diana Gabaldon,346
+Zadie Smith,347
+Natalie Goldberg,348
+Sue Grafton,349
+William J. Kennedy,350
+John Steinbeck,351
+Dale Carnegie,352
+Clifford Stoll,353
+Sandra Cisneros,354
+Kimberly Kirberger,355
+Ariella Papa,356
+Shannon Olson,357
+Karen Stolz,358
+Stephen Chbosky,359
+Sylvia Nasar,360
+Arthur C. Clarke,361
+Peter Matthiessen,362
+Marilynne Robinson,363
+Jude Deveraux,364
+Anne Morrow Lindbergh,365
+Laurie R. King,366
+Melinda Haynes,367
+Carol Shields,368
+Tim Powers,369
+Paulo Coelho,370
+Wolfgang Hohlbein,371
+Truman Capote,372
+Darrell Scott,373
+James Herbert,374
+William Sutcliffe,375
+Claudia Keller,376
+Christopher Moore,377
+Gary Larson,378
+Garrison Keillor,379
+Berke Breathed,380
+Barbara Ann Kipfer,381
+George Stephanopoulos,382
+Cornelia Funke,383
+Camille Paglia,384
+James Kahn,385
+James Mcbride,386
+Louis Sachar,387
+Oliver W. Sacks,388
+Rachel Cohn,389
+Jayne Ann Krentz,390
+Molly Ivins,391
+Forrest Carter,392
+Umberto Eco,393
+Greg Bear,394
+Kathy Reichs,395
+Jeffery Deaver,396
+V. C. Andrews,397
+Ernest J. Gaines,398
+Anne Lamott,399
+Bret Lott,400
+Zora Neale Hurston,401
+Salman Rushdie,402
+Bill Bryson,403
+Kahlil Gibran,404
+Tess Gerritsen,405
+Olive Ann Burns,406
+Betty Smith,407
+Michael Ende,408
+Corrie Ten Boom,409
+Michael Paterniti,410
+Steve Martini,411
+Banana Yoshimoto,412
+Edwidge Danticat,413
+Joe R. Lansdale,414
+Arturo Perez-Reverte,415
+Erik Larson,416
+Laurie Halse Anderson,417
+Mary Mcgarry Morris,418
+Stephen Coonts,419
+Judy Blume,420
+Patrick Robinson,421
+Robert T. Bakker,422
+Rachel Simon,423
+Spider Robinson,424
+Jonathan Harr,425
+Ayn Rand,426
+Alexandre Dumas,427
+Raymond Chandler,428
+Whitney Otto,429
+Kaye Gibbons,430
+Michael Cunningham,431
+Diane Ackerman,432
+Susan Isaacs,433
+Douglas Preston,434
+Kim Stanley Robinson,435
+Cathy Cash Spellman,436
+Jane Sigaloff,437
+Marian Keyes,438
+Drew Barrymore,439
+Lori Handeland,440
+Deborah Laake,441
+Marisa Carroll,442
+Dave Eggers,443
+Jasper Fforde,444
+Wendy Holden,445
+Sebastian Faulks,446
+Sue Margolis,447
+Dora Levy Mossanen,448
+Sheri Holman,449
+Jacqueline Susann,450
+Sara Paretsky,451
+Jane Mendelsohn,452
+Richard George Adams,453
+John Colapinto,454
+Ildiko Kurthy,455
+Kurt Vonnegut,456
+Sandor Marai,457
+Scott O.'Dell,458
+Max Allan Collins,459
+Julie E. Czerneda,460
+Beatrice Sparks,461
+Peter Mauyle,462
+Douglas Kennedy,463
+Jean Bonnefoy,464
+Lynne Reid Banks,465
+Dan Simmons,466
+Brian Herbert,467
+Vincent Bugliosi,468
+Ben Elton,469
+Mary Doria Russell,470
+Victor Hugo,471
+Jennifer Egan,472
+Dodie Smith,473
+Arlene Eisenberg,474
+Jane Green,475
+Ann B. Ross,476
+Adriana Trigiani,477
+Erica Jong,478
+Diana Palmer,479
+Lois Battle,480
+Allen Ginsberg,481
+Bill Watterson,482
+Max Frisch,483
+Thomas Pynchon,484
+Doris Pilkington,485
+Jules Verne,486
+Sam Siciliano,487
+Joe Haldeman,488
+Anatoli Boukreev,489
+Laurell K. Hamilton,490
+Hera Lind,491
+Catherine Clement,492
+Caleb Carr,493
+Stephen Baxter,494
+Augusten Burroughs,495
+David Eddings,496
+John Case,497
+Donna Woolfolk Cross,498
+Jon Krakauer,499
+Peter J. D.'Adamo,500
+John Fowles,501
+Chris Bohjalian,502
+M. Scott Peck,503
+M. M. Kaye,504
+Sharon Creech,505
+Dean Devlin,506
+Nuala O.'Faolain,507
+Terry Mcmillan,508
+Jimmy Stewart,509
+Bill Cosby,510
+Dorothea Benton Frank,511
+Daniel Hecht,512
+Stephen R. Lawhead,513
+Anne Perry,514
+Robin A. White,515
+Stephen White,516
+Jeffrey Archer,517
+Guy De Maupassant,518
+Jonathan Kellerman,519
+Robert Charles Wilson,520
+Geoff Ryman,521
+Gaston Leroux,522
+Lynda Barry,523
+Carol Higgins Clark,524
+Andrew Pyper,525
+Amy Ephron,526
+Susan Vreeland,527
+Federico Andahazi,528
+Russell Martin,529
+Ross King,530
+Iain Pears,531
+Jean M. Auel,532
+Robert Ludlum,533
+Oliver Sacks,534
+Virginia Woolf,535
+Janet Fitch,536
+David Foster Wallace,537
+Dav Pilkey,538
+Chuck Logan,539
+Patrick Suskind,540
+James Rollins,541
+Minette Walters,542
+William Faulkner,543
+John Updike,544
+Tiffanie Debartolo,545
+Daniel Quinn,546
+Jeanette Winterson,547
+Val Mcdermid,548
+Julie Garwood,549
+Madeleine L.'Engle,550
+Ann Packer,551
+Edith Wharton,552
+Chitra Banerjee Divakaruni,553
+Louise Erdrich,554
+Neal Stephenson,555
+Hermann Hesse,556
+Rosalind Miles,557
+Irvine Welsh,558
+Nelson Demille,559
+Dianna L. Paxson,560
+Gail Godwin,561
+Jayne Castle,562
+Octavia E. Butler,563
+Gloria Naylor,564
+Mary Pipher,565
+J. K. Rowling,566
+Robyn Carr,567
+Jean Craighead George,568
+Laura Lippman,569
+Philip Roth,570
+William Styron,571
+Roger Zelazny,572
+Gabriel Garcгѓв­A Mгѓвўrquez,573
+Naomi Ragen,574
+Stephen R. Covey,575
+Joseph O.'Connor,576
+Barbara Taylor Bradford,577
+Frank Herbert,578
+Michael Shaara,579
+Robin Mckinley,580
+James W. Loewen,581
+Robert Jordan,582
+William Shakespeare,583
+Elliott Hester,584
+Kathleen O.'Neal Gear,585
+Buzz Aldrin,586
+Jane Kirkpatrick,587
+George Carlin,588
+Harlan Coben,589
+Andrew Klavan,590
+Lynne Truss,591
+Whoopi Goldberg,592
+Drew Carey,593
+Ha Jin,594
+William Strunk Jr.,595
+Esme Raji Codell,596
+Daniel Keyes,597
+Elizabeth Adler,598
+Barbara W. Tuchman,599
+Walter Mosley,600
+Pamela Ribon,601
+Agatha Christie,602
+Frank E. Peretti,603
+Brad Meltzer,604
+Stan Berenstain,605
+Viktor E. Frankl,606
+Dennis Lehane,607
+Johanna Lindsey,608
+Daniel Pennac,609
+Carol Adrienne,610
+Jean-Paul Sartre,611
+Lawrence Sanders,612
+Catherine Ryan Hyde,613
+James Finn Garner,614
+Greg Iles,615
+Ridley Pearson,616
+Dale Brown,617
+Paul Monette,618
+Sylvia Browne,619
+James Redfield,620
+Coleman Barks,621
+Tim Allen,622
+Ellen Raskin,623
+James Herriot,624
+Jacqueline Carey,625
+Nancy Farmer,626
+Susanna Moore,627
+Sark,628
+Bret Easton Ellis,629
+Mary Bray Pipher,630
+Chris Sorensen,631
+Eduardo Mendoza,632
+Katherine Neville,633
+Lavyrle Spencer,634
+Brian Jacques,635
+James Lee Burke,636
+Mark Frost,637
+Ruth Prawer Jhabvala,638
+Azar Nafisi,639
+Tony Horwitz,640
+Leif Enger,641
+Betty J. Eadie,642
+H. G. Wells,643
+K. A. Applegate,644
+Adele Faber,645
+Donald F. Glut,646
+Earthworks Group,647
+Carolyn G. Hart,648
+Stephanie Laurens,649
+Jane Feather,650
+Rachel Gibson,651
+Victoria Alexander,652
+Susan Elizabeth Phillips,653
+Josie Litton,654
+Joann Ross,655
+Lisa Kleypas,656
+Pablo Neruda,657
+Alan Paton,658
+Kevin J. Anderson,659
+Bruce Sterling,660
+Wen Spencer,661
+Scott Adams,662
+Morgan Llywelyn,663
+William Gibson,664
+Starhawk,665
+Tanya Huff,666
+Philip Gourevitch,667
+Myla Goldberg,668
+Mary Karr,669
+Steve Alten,670
+Nalo Hopkinson,671
+Cynthia Voigt,672
+Catherine Gildiner,673
+Stella Gibbons,674
+Matthew Pearl,675
+Carolyn Parkhurst,676
+Rita Mae Brown,677
+Tad Williams,678
+Raymond E. Feist,679
+Ron Hansen,680
+Simon Winchester,681
+M. J. Rose,682
+Douglas R. Hofstadter,683
+Laurel Thatcher Ulrich,684
+Charles Kuralt,685
+Cleveland Amory,686
+Pearl S. Buck,687
+Hannah Hurnard,688
+Caren Lissner,689
+Paul Vincent,690
+Donna Leon,691
+Henning Mankell,692
+Kate Atkinson,693
+Richard Carlson,694
+Elizabeth George Speare,695
+Larry Niven,696
+Jack London,697
+Vince Flynn,698
+Susanna Kaysen,699
+Andrei Codrescu,700
+Mary Brown,701
+Sapphire,702
+Alan Garner,703
+Robert Fisher,704
+John Katzenbach,705
+Chip Kidd,706
+Richard Adams,707
+Connie Willis,708
+William Martin,709
+Robert B. Parker,710
+Dava Sobel,711
+Jean Giono,712
+J. A. Jance,713
+Carlo Lucarelli,714
+Eoin Colfer,715
+James Alexander Thom,716
+Katharine Graham,717
+Martha Cooley,718
+Dave Pelzer,719
+James Dobson,720
+R. L. Stine,721
+Linda Howard,722
+Margaret Wise Brown,723
+Hanif Kureishi,724
+Toby Young,725
+John R. Miller,726
+James A. Michener,727
+Stephen E. Ambrose,728
+Roger Caras,729
+Kathy Hepinstall,730
+Charlotte Brontгѓ?Г‚В«,731
+Penelope Fitzgerald,732
+William S. Burroughs,733
+Wladimir Kaminer,734
+Jerry B. Jenkins,735
+Astrid Ericsson Lindgren,736
+E. L. Konigsburg,737
+Robert Harris,738
+Isaac Asimov,739
+Kinky Friedman,740
+Bailey White,741
+Robert J. Sawyer,742
+Rachel Naomi Remen,743
+Carson Mccullers,744
+Jonathan Franzen,745
+Bob Woodward,746
+Douglas Coupland,747
+Tom Stoppard,748
+Philip K. Dick,749
+Christina Dodd,750
+John Dunning,751
+Grant Naylor,752
+Dai Sijie,753
+Monica Ferris,754
+Sharon Kay Penman,755
+Iyanla Vanzant,756
+Ekaterina Gordeeva,757
+Nick Bantock,758
+Thomas Block,759
+Bernard Cornwell,760
+J. M. Coetzee,761
+Alex Garland,762
+Joy Fielding,763
+Nathaniel Philbrick,764
+Emma Donoghue,765
+Mary Renault,766
+Dan Mcneill,767
+Lawrence Block,768
+Erica Spindler,769
+Stephen Dobyns,770
+Anne Bishop,771
+Kazuo Ishiguro,772
+Lalita Tademy,773
+Cathy Maxwell,774
+Phillip M. Margolin,775
+Bruce Robinson,776
+Robert Fulghum,777
+Elie Wiesel,778
+Josephine Carr,779
+Peter Benchley,780
+"Arthur Conan, Sir Doyle",781
+Jim Butcher,782
+E. L. Swann,783
+Dr. Seuss,784
+Jared Diamond,785
+Patricia Highsmith,786
+John Dufresne,787
+Marguerite Duras,788
+David Fontana,789
+Luis Sepulveda,790
+E. B. White,791
+Kathy Tyers,792
+L. Ron Hubbard,793
+Anonymous,794
+Phillip Margolin,795
+F. Scott Fritzgerald,796
+Sara Backer,797
+Jan Siegel,798
+Ursula K. Le Guin,799
+Susan Cooper,800
+Berkeley Breathed,801
+Cristina Garcia,802
+Debbie Macomber,803
+Jill Davis,804
+Allison Pearson,805
+Stan Redding,806
+Elizabeth Lowell,807
+Frances Mayes,808
+Ann M. Martin,809
+Malcolm Gladwell,810
+Sally Beauman,811
+Peter Singer,812
+Robertson Davies,813
+Johanna Spyri,814
+Aldous Huxley,815
+E. M. Forster,816
+Martin Cruz Smith,817
+Pat Conroy,818
+Pete Hamill,819
+Rosellen Brown,820
+Jill Conner Browne,821
+Julia Alvarez,822
+Florence King,823
+Stefan Fatsis,824
+Hannah Crafts,825
+Will Ferguson,826
+John Kennedy Toole,827
+Lisa Beamer,828
+Ian Rankin,829
+Dorothy L. Sayers,830
+Michel Tournier,831
+Mario Puzo,832
+Dianna Wynne Jones,833
+Peter Wright,834
+Mark Z. Danielewski,835
+Robert Pirsig,836
+China Mieville,837
+Chang-Rae Lee,838
+Millenia Black,839
+Laurie Fox,840
+Wendy Northcutt,841
+Peter Carey,842
+Carlos Ruiz Zafon,843
+Torcuato Luca De Tena,844
+William Shatner,845
+Jan Burke,846
+Nicci French,847
+Judy Collins,848
+Conari Press,849
+Andre Dubus Iii,850
+Gary Paulsen,851
+Robert Crais,852
+Erich Segal,853
+Robert N. Munsch,854
+Norman Maclean,855
+S. E. Hinton,856
+Richard Preston,857
+Tony Hawks,858
+Kage Baker,859
+William Carlos Williams,860
+Michael Drosnin,861
+Bill Richardson,862
+Linda Lael Miller,863
+Sheri Reynolds,864
+Benedict Freedman,865
+Elizabeth Berg,866
+Laurie Graham,867
+Nancy Pearl,868
+Jim Fergus,869
+Edwin A. Abbott,870
+O. Henry,871
+Pearl Cleage,872
+Marlo Morgan,873
+Dinah Mccall,874
+Annie Gottlieb,875
+Vicki Lewis Thompson,876
+Tim Burton,877
+Steve Moss,878
+Dashiell Hammett,879
+Benjamin Anastas,880
+Jose Saramago,881
+Arthur Nersesian,882
+Joshua Piven,883
+Tim O.'Brien,884
+David M. Friedman,885
+Christopher Pike,886
+George R. R. Martin,887
+Doug Lansky,888
+Judith Krantz,889
+Laurie Notaro,890
+Lolly Winston,891
+Susan Minot,892
+Judith Hawkes,893
+James Jennings,894
+Alvin Schwartz,895
+Melvin Burgess,896
+Neale Donald Walsch,897
+Manil Suri,898
+P. D. James,899
+Antwone Quenton Fisher,900
+Timothy Zahn,901
+Graham Greene,902
+John Stevens,903
+Steven Pressfield,904
+Bruce Wilkinson,905
+Marlene Day,906
+Daniel Silva,907
+Nevil Shute Norway,908
+Stephen Hawking,909
+Frederick Forsyth,910
+David Drake,911
+William Boyd,912
+Nora Ephron,913
+Amanda Quick,914
+Gloria Steinem,915
+Lisa Carey,916
+Trevanian,917
+Stephen Baker,918
+Neil Postman,919
+Firoozeh Dumas,920
+Cathleen Schine,921
+Dorothy Garlock,922
+Rosamunde. Pilcher,923
+Jerry Spinelli,924
+Alice Blanchard,925
+Cameron Tuttle,926
+T. Jefferson Parker,927
+Robert Morgan,928
+Eric Garcia,929
+Gary Braver,930
+Sarah Mlynowski,931
+Karen Templeton,932
+Claire Cook,933
+Lauren Weisberger,934
+Ingrid Noll,935
+Dennis Covington,936
+Richard Matheson,937
+Manuel Vicent,938
+Catherine Millet,939
+Anne Fadiman,940
+Betty Edwards,941
+Joyce Carol Oates,942
+Darin Strauss,943
+Maeve Brennan,944
+P. J. O.'Rourke,945
+Colin Forbes,946
+K. Amber,947
+Nat Philbrick,948
+Anthony Burgess,949
+Fyodor Dostoyevsky,950
+Walter Dean Myers,951
+Alessandro Baricco,952
+Jody Shields,953
+Orhan Pamuk,954
+Vikram Seth,955
+Kathleen Norris,956
+Peter Heg,957
+Geraldine Brooks,958
+Rita Golden Gelman,959
+F. Paul Wilson,960
+Suzanne Brockmann,961
+Gaelen Foley,962
+Sherrilyn Kenyon,963
+Jill Churchill,964
+Nadine Gordimer,965
+John Hersey,966
+Bram Stocker,967
+Rita Ciresi,968
+Steve Perry,969
+Jackie Collins,970
+Bruno Maddox,971
+Alice Randall,972
+T. H. White,973
+Katherine Mosby,974
+Kirsty Gunn,975
+Edward Gorey,976
+Michael Frayn,977
+Gustave Flaubert,978
+Eliyahu M. Goldratt,979
+Mary Alice Monroe,980
+Eckhart Tolle,981
+Julia Cameron,982
+Geoffrey Chaucer,983
+Whitley Strieber,984
+Anna Maxted,985
+Linda Greenlaw,986
+Wayne W. Dyer,987
+Robert Heinlein,988
+Melinda Blanchard,989
+Misty Bernall,990
+Eudora Welty,991
+Chris Hedges,992
+Christine Mcguire,993
+Amelie Nothomb,994
+Patrick Sгѓ?Г‚Вјskind,995
+H. P. Lovecraft,996
+Christopher Paul Curtis,997
+Yitta Halberstam,998
+Matt Ridley,999
+E. D. Hirsch Jr.,1000
+Lance Armstrong,1001
+Sena Jeter Naslund,1002
+Robert Louis Stevenson,1003
+Barry Sears,1004
+Susan Forward,1005
+Heather Graham Pozzessere,1006
+John Bayley,1007
+Nancy K. Peske,1008
+Joanna Carl,1009
+Maggie Shayne,1010
+Pamela E. Apkarian-Russell,1011
+Michael Wallis,1012
+Alex Kotlowitz,1013
+Andrea De Carlo,1014
+Wilson Rawls,1015
+Margaret Peterson Haddix,1016
+Rudolfo Anaya,1017
+Jo Beverley,1018
+Carol O.'Connell,1019
+David J. Pelzer,1020
+Jodi Picoult,1021
+Stephen L. Carter,1022
+Anchee Min,1023
+Kyle Mills,1024
+Nancy Taylor Rosenberg,1025
+Shelby Yastrow,1026
+Stanley Pottinger,1027
+Julia Quinn,1028
+Alton Gansky,1029
+David Morrell,1030
+Stef Ann Holm,1031
+Lincoln Child,1032
+Matthew Reilly,1033
+Michael Darkow,1034
+Gail Tsukiyama,1035
+James Reese,1036
+Malika Oufkir,1037
+Carol Brink,1038
+R. A. Salvatore,1039
+Nien Cheng,1040
+Annie Dillard,1041
+P. J. Orourke,1042
+Antonio Skarmeta,1043
+E. L. Doctorow,1044
+Inga Muscio,1045
+Upton Sinclair,1046
+Robert M. Pirsig,1047
+Silver Ravenwolf,1048
+Albert Camus,1049
+Elizabeth Young,1050
+Alan Lightman,1051
+Todd Komarnicki,1052
+Tina Wainscott,1053
+Joseph Wambaugh,1054
+Kirk Douglas,1055
+Peter Jenkins,1056
+Laura Joh Rowland,1057
+Patrick Mccabe,1058
+Karin Lowachee,1059
+John Knowles,1060
+Robert C. O.'Brien,1061
+Mary Norton,1062
+Carol Ryrie Brink,1063
+Mildred D. Taylor,1064
+Garth Nix,1065
+Kay Allenbaugh,1066
+Christina Schwarz,1067
+Molly Jong-Fast,1068
+Shirley Jackson,1069
+Jacqueline Park,1070
+A. S. Byatt,1071
+Charles Dickens,1072
+Charlaine Harris,1073
+Mary Gentle,1074
+Philip D. Eastman,1075
+Michael Jan Friedman,1076
+Norman Juster,1077
+Joseph Finder,1078
+A. N. Roquelaure,1079
+Stefan Zweig,1080
+Deborah Moggach,1081
+Elinor Lipman,1082
+Carolyn Keene,1083
+Karen Armstrong,1084
+Lisa Jewell,1085
+James Joyce,1086
+Gayle Lynds,1087
+Lorenzo Carcaterra,1088
+Pamela Stephenson,1089
+Michael Pollan,1090
+Vicki Iovine,1091
+Kate White,1092
+Tony Earley,1093
+Kirsten Bakis,1094
+David Almond,1095
+Jorge Amado,1096
+Chinua Achebe,1097
+Helene Hanff,1098
+Thomas J. Stanley,1099
+John Whitman,1100
+P. J. Tracy,1101
+Richard Lederer,1102
+D. H. Lawrence,1103
+Elise Juska,1104
+Frederick Beigbeder,1105
+Ahdaf Soueif,1106
+Clyde Edgerton,1107
+Suzy Becker,1108
+Jimmy Buffett,1109
+Maud Hart Lovelace,1110
+John D. Macdonald,1111
+Tom Raabe,1112
+Hampton Sides,1113
+Daniel Wallace,1114
+John Howard Griffin,1115
+Terri Blackstock,1116
+John Lescroart,1117
+Indu Sundaresan,1118
+Alan Dean Foster,1119
+William Diehl,1120
+Earlene Fowler,1121
+Lynda La Plante,1122
+Steven Paul Martini,1123
+Susan Wittig Albert,1124
+Andrew M. Greeley,1125
+J. F. Freedman,1126
+Storm Constantine,1127
+Ali Smith,1128
+Mary Pope Osborne,1129
+Charlotte Douglas,1130
+Jean Lorrah,1131
+Anais Nin,1132
+Charles Grant,1133
+Katherine Dunn,1134
+Napoleon Hill,1135
+Peter Mcwilliams,1136
+Linus Torvalds,1137
+Nigel Barley,1138
+Javier Cercas,1139
+Mikhail Bulgakov,1140
+Thomas Robbins,1141
+Lynn V. Andrews,1142
+Chuck Barris,1143
+John Treadwell Nichols,1144
+Barbara Parker,1145
+Bill Phillips,1146
+Charlotte Vale Allen,1147
+Mark Childress,1148
+Donald E. Westlake,1149
+Jennifer Chiaverini,1150
+Sarah Vowell,1151
+Janet Dailey,1152
+Robert Asprin,1153
+Alice Steinbach,1154
+"Walter M. , Jr. Miller",1155
+Aimee Bender,1156
+Carol Smith,1157
+Janice Graham,1158
+Silas House,1159
+Peter S. Beagle,1160
+Susan R. Sloan,1161
+Beverly Lewis,1162
+Glen Gold,1163
+Tova Mirvis,1164
+Jane Shapiro,1165
+Ruth Rendell,1166
+Michael Baigent,1167
+Surya Das,1168
+Breena Clarke,1169
+Richard Laymon,1170
+Claire Berlinski,1171
+Mary Jo Putney,1172
+Stephen Hunter,1173
+Catherine Anderson,1174
+Dante Alighieri,1175
+Steven Spielberg,1176
+Paula Volsky,1177
+Scott Smith,1178
+Francine Pascal,1179
+Howard Norman,1180
+Deborah Crombie,1181
+Phillip C. Mcgraw,1182
+Elizabeth Marshall Thomas,1183
+Perry O.'Shaughnessy,1184
+Perri O.'Shaughnessy,1185
+Katherine Paterson,1186
+Ethan Black,1187
+Nancy Pickard,1188
+Stephen W. Frey,1189
+Carolyn Hart,1190
+Margaret Mitchell,1191
+Robert Parker,1192
+John Connolly,1193
+Guy Gavriel Kay,1194
+Monty Roberts,1195
+Christine Feehan,1196
+Edith Hamilton,1197
+Winston Groom,1198
+Thomas Keneally,1199
+Anatolian Treasures,1200
+Jemiah Jefferson,1201
+Jill A. Davis,1202
+Robert Mccammon,1203
+Arabella Weir,1204
+Wendy Markham,1205
+Deborah And James Howe,1206
+Penelope J. Stokes,1207
+Velma Wallis,1208
+Jane Goodall,1209
+Pauline Reage,1210
+George Bernard Shaw,1211
+Arthur Miller,1212
+Miguel De Cervantes Saavedra,1213
+D. B. C. Pierre,1214
+Joanna Trollope,1215
+Jennifer Finney Boylan,1216
+Liane Moriarty,1217
+Robert C. Atkins,1218
+Andrea Kane,1219
+Karen Rose,1220
+Laura Moriarty,1221
+Pam Munoz Ryan,1222
+Janet Taylor Lisle,1223
+Angela Elwell Hunt,1224
+Franz Kafka,1225
+M. Bulgakov,1226
+M. Gilliland,1227
+Joy Kogawa,1228
+Mario Vargas Llosa,1229
+Tom Corbett,1230
+Lian Hearn,1231
+James Dickey,1232
+Philippa Gregory,1233
+Max Barry,1234
+Garry D. Kilworth,1235
+Walter Lord,1236
+William Armstrong,1237
+Charlotte Hughes,1238
+Karen Harper,1239
+Sharon Sala,1240
+Boris Starling,1241
+Robert K. Tanenbaum,1242
+Marianne Fredriksson,1243
+Pam Houston,1244
+Ken Kesey,1245
+Sharon Shinn,1246
+Brian L. Weiss,1247
+Truddi Chase,1248
+Andreas Eschbach,1249
+Jane Yolen,1250
+Andrew Mark,1251
+Caroline B. Cooney,1252
+Karen Cushman,1253
+Frank Lauria,1254
+Deborah Spungen,1255
+Russell Baker,1256
+Lewis Perdue,1257
+Chris Rock,1258
+Oscar Williams,1259
+Henry David Thoreau,1260
+Haven Kimmel,1261
+Carly Phillips,1262
+Joseph Bedier,1263
+Jerome Lawrence,1264
+Lorraine Hansberry,1265
+Jeff Deaver,1266
+Niccolo Ammaniti,1267
+Nina Killham,1268
+Mandalyn Kaye,1269
+Gwynn Rubio,1270
+Maxine Hong Kingston,1271
+Bryce Courtenay,1272
+Rosie O.'Donnell,1273
+Carrie Weaver,1274
+Linda Goodman,1275
+Drake Douglas,1276
+Arturo Pгѓв©Rez-Reverte,1277
+Katrina Kenison,1278
+Lily Burana,1279
+Nicholson Baker,1280
+Diane Schoemperlen,1281
+John Gray,1282
+M. A. Harper,1283
+Joseph Conrad,1284
+Robert Amoroso,1285
+Jack Finney,1286
+Wilkie Collins,1287
+Liz Curtis Higgs,1288
+Kathryn Harvey,1289
+Andrew Morton,1290
+David G. Hartwell,1291
+Bel Kaufman,1292
+Michael Morris,1293
+Stewart O.'Nan,1294
+David Liss,1295
+Thich Nhat Hanh,1296
+A. Scott Berg,1297
+Melissa Senate,1298
+Cheryl Peck,1299
+Danzy Senna,1300
+Tamar Myers,1301
+Joanne Fluke,1302
+Atul Gawande,1303
+Harriet Doerr,1304
+Jo-Ann Mapson,1305
+Tracy Quan,1306
+Donna Morrissey,1307
+Loraine Despres,1308
+Bette Greene,1309
+Jeffrey Deaver,1310
+Nancy Martin,1311
+Pat Warren,1312
+William X. Kienzle,1313
+Tim Green,1314
+Ellen Byerrum,1315
+Merrill Markoe,1316
+Larry Bond,1317
+Mary Gordon,1318
+John Edward,1319
+Ken Grimwood,1320
+Clive Barker,1321
+Charlotte Perkins Gilman,1322
+"Kurt, Jr. Vonnegut",1323
+Italo Calvino,1324
+Phil Mcgraw,1325
+Sarah Dunant,1326
+Deborah Larsen,1327
+Judy Sheindlin,1328
+Kathryn Harrison,1329
+Emily Dickinson,1330
+Margaret Williams,1331
+Patrick O.'Brian,1332
+Emily Barr,1333
+Andrew H. Vachss,1334
+Ann Coulter,1335
+Ute Ehrhardt,1336
+Allan Pease,1337
+Steve Kluger,1338
+James Alan Gardner,1339
+David Leavitt,1340
+Anthony Bourdain,1341
+J. T. Leroy,1342
+Beth Gutcheon,1343
+Ethan Hawke,1344
+Marcia Muller,1345
+Lawrence Schiller,1346
+Richard Atwater,1347
+Judy Shasek,1348
+Eve Ensler,1349
+Linda Moore,1350
+Dorothy Gilman,1351
+Matt Beaumont,1352
+Marianne Williamson,1353
+Sarah L. Delany,1354
+Anne Heche,1355
+Darcey Steinke,1356
+Leo Buscaglia,1357
+John E. Douglas,1358
+Henry Miller,1359
+Camilo Jose Cela,1360
+Frank B. Gilbreth Sr.,1361
+Judith Michaels,1362
+Mary Lynn Baxter,1363
+Ann Benson,1364
+Betty Friedan,1365
+Phyllis White,1366
+Arthur Hailey,1367
+Alice Mattison,1368
+Michel Houellebecq,1369
+Ellen Degeneres,1370
+Wendy Corsi Staub,1371
+Terry Goodkind,1372
+Robin Hobb,1373
+Jerzy Kosinski,1374
+Gaite Carmen Martin,1375
+William Blake,1376
+Dalton Trumbo,1377
+Esther Forbes,1378
+Laurence Yep,1379
+Arthur G. Slade,1380
+Adam Gopnik,1381
+Noam Chomsky,1382
+James Clavell,1383
+Alexandra Ripley,1384
+Harvey Diamond,1385
+Lois Mcmaster Bujold,1386
+Po Bronson,1387
+George R. Stewart,1388
+Clamp,1389
+Andre Norton,1390
+Esther Friesner,1391
+Karen Hancock,1392
+Vгѓв­Ctor E. Villaseгѓв±Or,1393
+Rohinton Mistry,1394
+W. A. Mccay,1395
+Peter David,1396
+Gertrude Chandler Warner,1397
+John De Graaf,1398
+Lucy Grealy,1399
+Dr. Jerri Nielsen,1400
+Jeffrey Lent,1401
+Haywood Smith,1402
+Kathy Lette,1403
+Marsha Sinetar,1404
+Tania Kindersley,1405
+Tom Sharpe,1406
+Jay Anson,1407
+Melinda Metz,1408
+Gavin De Becker,1409
+Sara Shandler,1410
+Patricia Telesco,1411
+Valerie Ann Worwood,1412
+Jonathan Swift,1413
+Anhua Gao,1414
+Ira Levin,1415
+Doug Stanton,1416
+Lucy Maude Montgomery,1417
+Tracy Kidder,1418
+Barbara Freese,1419
+William Least Heat-Moon,1420
+Tanja Kinkel,1421
+James Ellroy,1422
+Joseph F. Girzone,1423
+Keri Hulme,1424
+Jung Chang,1425
+Sheldon Siegel,1426
+Allan Folsom,1427
+Jonathan Rabb,1428
+Rachael F. Heller,1429
+Rosie Daley,1430
+Michael Maccaskey,1431
+Jerome Preisler,1432
+Christopher Reeve,1433
+Elizabeth Buchan,1434
+Katia Granoff,1435
+Bob Greene,1436
+Virginia Henley,1437
+Karen Marie Moning,1438
+Caroline Burnes,1439
+Greg Manning,1440
+Joseph Girzone,1441
+Terry Ryan,1442
+Deborah Tannen,1443
+Evelyn Mcfarlane,1444
+Virginia Beard Morton,1445
+Doug Naylor,1446
+Sir Thomas More,1447
+Mo Hayder,1448
+John Champlin Gardner,1449
+Sujata Massey,1450
+Alfred Lansing,1451
+Barry Unsworth,1452
+Gao Xingjian,1453
+Jane Juska,1454
+Alison Smith,1455
+Rick Bragg,1456
+Roger Lea Macbride,1457
+Jessica Shaver,1458
+Desmond Morris,1459
+Jeffrey Moussaieff Masson,1460
+Edward Rutherford,1461
+Natalie Babbitt,1462
+Kathryn Lasky,1463
+Norma Fox Mazer,1464
+Patrick Lynch,1465
+Penelope Lively,1466
+Torey Hayden,1467
+Susan Jeffers,1468
+Gavin Edwards,1469
+Allegra Goodman,1470
+Jennifer Belle,1471
+Margaret Coel,1472
+Stephanie Barron,1473
+Emily Grayson,1474
+Margaret George,1475
+Ellen Sussman,1476
+Niall Williams,1477
+Jeanne D.'Haem,1478
+George Lucas,1479
+Robin Maxwell,1480
+Robyn Sisman,1481
+Anna Gavalda,1482
+Wayson Choy,1483
+Lloyd Alexander,1484
+Bette Lord,1485
+George Dawes Green,1486
+Paul Doherty,1487
+Harry F. Saint,1488
+Leslie Glass,1489
+Jamaica Kincaid,1490
+Susan Fromberg Schaeffer,1491
+Zlata Filipovic,1492
+Alan Brennert,1493
+Kuki Gallmann,1494
+Richard Mason,1495
+Tadahiko Nagao,1496
+Matthew Kneale,1497
+Linda Fairstein,1498
+India Knight,1499
+Robert Penn Warren,1500
+Dan Zevin,1501
+Gilda Radner,1502
+Paullina Simons,1503
+Anne Michaels,1504
+Nancy H. Kleinbaum,1505
+Joan Johnston,1506
+Melanie Rawn,1507
+W. E. B. Griffin,1508
+Bentley Little,1509
+Elizabeth Hand,1510
+Michael J. Fox,1511
+George Burns,1512
+Judith R. Hendricks,1513
+Tabitha King,1514
+Laura Fraser,1515
+Nancy Huston,1516
+Alice Borchardt,1517
+Susanna Tamaro,1518
+Larry Watson,1519
+Jean P. Sasson,1520
+Henrik Ibsen,1521
+Maria Shriver,1522
+Oriah Mountain Dreamer,1523
+Katie Macalister,1524
+Marlena De Blasi,1525
+Elaine St. James,1526
+May Sarton,1527
+Debra Ginsberg,1528
+Judy Jones,1529
+Friedrich Duerenmatt,1530
+William H. Armstrong,1531
+Edward P. Jones,1532
+Kate Dicamillo,1533
+Howard Stern,1534
+Terry Jones,1535
+David Mccullough,1536
+Kelsey Grammer,1537
+Mary Stewart,1538
+Dominique Lapierre,1539
+Sherman Alexie,1540
+Flavia,1541
+Rainer Maria Rilke,1542
+Elizabeth Coatsworth,1543
+Daniel Mason,1544
+Robert Schneider,1545
+Margaret Craven,1546
+Brenda Joyce,1547
+Teresa Medeiros,1548
+Josephine Hart,1549
+Alan Watts,1550
+Eva Heller,1551
+A. A. Milne,1552
+Dan Millman,1553
+Jon Kabat-Zinn,1554
+Max Lucado,1555
+Petru Popescu,1556
+Tennessee Williams,1557
+Helen Prejean,1558
+Daniel Boorstin,1559
+Alice Joyce Davidson,1560
+Louise Fitzhugh,1561
+Henry Roth,1562
+Karen Anders,1563
+Kristin Hardy,1564
+Carla Neggers,1565
+Christopher Reich,1566
+John-Roger Mcwilliams,1567
+Kristen Britain,1568
+Lauren Brooke,1569
+Thomas H. Cook,1570
+Ellen Datlow,1571
+Jeff Rovin,1572
+Karen Joy Fowler,1573
+Paul Bowles,1574
+Lynsay Sands,1575
+Josh Mcdowell,1576
+Joseph Kanon,1577
+Joe Dominguez,1578
+Sara Donati,1579
+Lee Child,1580
+Amanda Foreman,1581
+Gregg Hurwitz,1582
+Carol Brown Janeway,1583
+Alex Haley,1584
+Fay Weldon,1585
+Frederik Pohl,1586
+Bruce Chatwin,1587
+Lee Strobel,1588
+Daniel De Foe,1589
+Tim F. Lahaye,1590
+Rachel Carson,1591
+Francesca Lia Block,1592
+Louise L. Hay,1593
+Robert Graves,1594
+Jim Harrison,1595
+Judith Gould,1596
+Pagan Kennedy,1597
+Alex Kava,1598
+Gene Brewer,1599
+Lawrence M. Krauss,1600
+Caroline Myss,1601
+Richard Erdoes,1602
+Andrea Barrett,1603
+Barbara Robinson,1604
+Dorothy Sayer,1605
+Michel Faber,1606
+Pamela Morsi,1607
+Robert Hellenga,1608
+Stephen C. Lundin,1609
+Lynn Abbey,1610
+Arturo Y Carlota Perez-Reverte,1611
+Jon Katz,1612
+Paul Fleischman,1613
+Arthur S. Golden,1614
+Karleen Koen,1615
+Bud Macfarlane Jr.,1616
+D. W. Buffa,1617
+William J. Coughlin,1618
+Stephen Frey,1619
+Marilyn French,1620
+Emma Gold,1621
+Rumiko Takahashi,1622
+Ernest Shackleton,1623
+Delia Ephron,1624
+Jan Harold Brunvand,1625
+Oswald Wynd,1626
+Steven Brust,1627
+Jerry Jenkins,1628
+Jane Stanton Hitchcock,1629
+Michael Stewart,1630
+Muriel Gray,1631
+Amanda Davis,1632
+Sophocles,1633
+William Pollack,1634
+Eric-Emmanuel Schmitt,1635
+Arnauld Pontier,1636
+Walt Whitman,1637
+John J. Nance,1638
+Mark Olshaker,1639
+Jon Stewart,1640
+Robin Pilcher,1641
+Matilde Asensi,1642
+Joe Klein,1643
+Kate Grenville,1644
+Gary Jennings,1645
+Carrie Fisher,1646
+Helen Hooven Santmyer,1647
+D. Preston,1648
+Peter Maas,1649
+Beppe Severgnini,1650
+Lori Foster,1651
+Bradley Trevor Greive,1652
+Kate Christensen,1653
+David James Duncan,1654
+Nicholas Negroponte,1655
+Roger Fisher,1656
+Ben Rice,1657
+Richard P. Feynman,1658
+Shannon Drake,1659
+Hunter S. Thompson,1660
+Jonathan Kozol,1661
+Walker Percy,1662
+Monica Ali,1663
+Jill Ker Conway,1664
+Deborah Coates,1665
+Mary Tyler Moore,1666
+Carmen Renee Berry,1667
+Dbc Pierre,1668
+Luis Martin-Santos,1669
+Paul Feig,1670
+Celia Rees,1671
+Joanna Hershon,1672
+Clarissa Pinkola Phd Estes,1673
+Deborah Copaken Kogan,1674
+Kelley Armstrong,1675
+Francois M. Voltaire,1676
+Antoine De Saint-Exupery,1677
+Sparkle Hayter,1678
+Diana Diamond,1679
+"Charlotte Sophia, Phd. Kasl",1680
+George S. Clason,1681
+Cecelia Ahern,1682
+Elaine Viets,1683
+Julie Smith,1684
+David Pickering,1685
+Phyllis A. Whitney,1686
+Kenneth T. Brown,1687
+Poppy Z. Brite,1688
+Annie Leibovitz,1689
+Graham Joyce,1690
+Susan Conant,1691
+Richard A. Clarke,1692
+Lynn S. Hightower,1693
+Mariah Stewart,1694
+Andrew Weil M. D.,1695
+Anna Sewell,1696
+Boris Vian,1697
+Raymond Queneau,1698
+Meggin Cabot,1699
+Federico Garcia Lorca,1700
+Julie Andrews Edwards,1701
+Jeanne W. Houston,1702
+Alexandra Fuller,1703
+Rachel Seiffert,1704
+Philip Kindred Dick,1705
+John Lanchester,1706
+Takashi Matsuoka,1707
+Maggie Alderson,1708
+Mineko Iwasaki,1709
+James Gleick,1710
+Nancy Reagan,1711
+Claude Mckay,1712
+Dudley Fitts,1713
+Frank Peretti,1714
+Patti Berg,1715
+Jack Handey,1716
+Sherrie Krantz,1717
+Mickey Zucker Reichert,1718
+Martha Sears,1719
+Antonia Barber,1720
+Harold G. Moore,1721
+Gabriel King,1722
+Woody Allen,1723
+Carlos Castaneda,1724
+Marge Piercy,1725
+Carlene Thompson,1726
+Madeena S. Nolan,1727
+Katherine Kurtz,1728
+Anna Lee Waldo,1729
+Andrew Neiderman,1730
+Michael Prescott,1731
+Ian Caldwell,1732
+Joanne Greenberg,1733
+Judy Mercer,1734
+Jacki Lyden,1735
+Martha Sacks,1736
+Charles M. Sheldon,1737
+Michael Newton,1738
+Norman F. Maclean,1739
+Billy Graham,1740
+Isak Dinesen,1741
+Sandra Martz,1742
+Jennifer Louden,1743
+Susan Faludi,1744
+Brian Greene,1745
+Michio Kaku,1746
+Niccolo Machiavelli,1747
+Tim Cockey,1748
+Launius Anthony,1749
+Deborah Chester,1750
+Jennifer Haigh,1751
+Karen Brichoux,1752
+Lynn Messina,1753
+Lynda Curnyn,1754
+Carol Goodman,1755
+Helen Ellis,1756
+Jane Moore,1757
+Lisa Cach,1758
+Clare Naylor,1759
+Suzanne Finnamore,1760
+Cynthia Hartwick,1761
+Cecily Von Ziegesar,1762
+Kristin Mccloy,1763
+Ruth L. Ozeki,1764
+Lee Iacocca,1765
+J. Lynne Hinton,1766
+Anne Sexton,1767
+Jonathan Hull,1768
+Rebbecca Ray,1769
+Laura Caldwell,1770
+Mark Dunn,1771
+Megan Mccafferty,1772
+Jenny Colgan,1773
+Leigh Riker,1774
+Sarah Ferguson,1775
+E. M. Swift,1776
+Vicki Leon,1777
+Rebecca Campbell,1778
+Deepak Chopra,1779
+Rupert Everett,1780
+Kevin Crossley-Holland,1781
+Dorothy Samuels,1782
+Ann Rinaldi,1783
+Laura C. Schlessinger,1784
+Stormie Omartian,1785
+Francine Rivers,1786
+Michael Lee West,1787
+Bill Quinn,1788
+Kristiana Gregory,1789
+Marguerite Henry,1790
+Ed Mcbain,1791
+John Tyerman Williams,1792
+Alexa Albert,1793
+J. Moussaieff Masson,1794
+Latifa,1795
+Scott Rice,1796
+Mary Mayer Holmes,1797
+Spike Milligan,1798
+Alicia Appleman-Jurman,1799
+Bertolt Brecht,1800
+Jason Little,1801
+Kevin Freiberg,1802
+Miles Harvey,1803
+Simone De Beauvoir,1804
+Kay R. Jamison,1805
+Gregory Stock,1806
+Donna Boyd,1807
+L. E. Modesitt Jr.,1808
+Suzann Ledbetter,1809
+Stephanie Gertler,1810
+Josie Lloyd,1811
+Margaret Eleanor Atwood,1812
+Fiona Walker,1813
+Vladimir Nabokov,1814
+Ruth Reichl,1815
+Andrew Miller,1816
+Stuart Mclean,1817
+Jonathan Lethem,1818
+Barbara Gowdy,1819
+Helen Fremont,1820
+Timothy Findley,1821
+Pat Barker,1822
+Terry Kay,1823
+Mary Janice Davidson,1824
+Robert Cormier,1825
+Octavia Butler,1826
+Trina Paulus,1827
+Harriette Arnow,1828
+Jeff Shaara,1829
+Jim Davis,1830
+Andrew Clements,1831
+Katharine Hepburn,1832
+Noelle Howey,1833
+Paula Danziger,1834
+John Travolta,1835
+Rachel Simmons,1836
+Heidi E. Murkoff,1837
+Kevin Baker,1838
+Illona Linthwaite,1839
+Patricia Maclachlan,1840
+David Rees,1841
+Christopher Paolini,1842
+Upton Beall Sinclair,1843
+Dorothy West,1844
+Isabel Fonseca,1845
+James Carville,1846
+Tom Brokaw,1847
+Greg Critser,1848
+Wilbur A. Smith,1849
+Stephen Mitchell,1850
+Steven Millhauser,1851
+Ron Clark,1852
+Adrian Nicole Leblanc,1853
+Karen Kijewski,1854
+Barbara Hambly,1855
+Margaret Maron,1856
+Darby Conley,1857
+Anne George,1858
+Jeanne Braselton,1859
+Alisa Valdes-Rodriguez,1860
+T. R. Pearson,1861
+Witi Ihimaera,1862
+Edward Abbey,1863
+Yxta Maya Murray,1864
+Simon Doonan,1865
+Abby Bardi,1866
+Art Spiegelman,1867
+Gary Ogden Harper,1868
+William Burroughs,1869
+Paulette Jiles,1870
+Ariel Jennifer Jones,1871
+Sherry Sontag,1872
+Pete Dexter,1873
+Patricia Kay,1874
+Deborah Smith,1875
+Cherry Adair,1876
+Jerry Seinfeld,1877
+Mqp Creative,1878
+Richard Ford,1879
+Mark Kurlansky,1880
+Ruthanne Lum Mccunn,1881
+Calvin Trillin,1882
+Elizabeth Mccracken,1883
+Paula Marantz Cohen,1884
+Lawrence Goldstone,1885
+A. M. Homes,1886
+Margot Livesey,1887
+Wallace Earle Stegner,1888
+Judith Rossner,1889
+Angela Nissel,1890
+Thomas L. Friedman,1891
+Susan Orlean,1892
+Ben Sherwood,1893
+Murray Bail,1894
+Marlys Millhiser,1895
+Alice Munro,1896
+Kim Wong Keltner,1897
+Nicole Mones,1898
+Frances H. Burnett,1899
+Jilliane Hoffman,1900
+Donna Vanliere,1901
+Jack Ketchum,1902
+Paul Burrell,1903
+Hannah Alexander,1904
+T. J. Macgregor,1905
+Connie May Fowler,1906
+Keith Ablow,1907
+Jeffrey Konvitz,1908
+Joseph R. Garber,1909
+Jessica Barksdale Inclan,1910
+Jim Grimsley,1911
+Malcolm X.,1912
+Marc Behm,1913
+John Steakley,1914
+Rob Kean,1915
+James C. Dobson,1916
+"Frank B. , Jr. Gilbreth",1917
+Bruce Campbell,1918
+Louise Taylor,1919
+Sarah Graves,1920
+Harriet Lerner,1921
+Jean-Dominique Bauby,1922
+Ellen Fein,1923
+Allen Mandelbaum,1924
+Dorothy Cannell,1925
+Jean Rhys,1926
+John Walsh,1927
+Kenneth Grahame,1928
+Elizabeth Ann Scarborough,1929
+Nancy Fairbanks,1930
+Zilpha Keatley Snyder,1931
+Jason Moss,1932
+Edward Ball,1933
+Laura Pedersen,1934
+Maurice Sendak,1935
+Frances Burnett,1936
+William R. Maples,1937
+Catherine Marshall,1938
+Bill Myers,1939
+N. H. Kleinbaum,1940
+Caroline Knapp,1941
+Harold S. Kushner,1942
+Josephine Tey,1943
+Elizabeth Forsythe Hailey,1944
+Jim Lovell,1945
+Clement Clarke Moore,1946
+Christopher Phillips,1947
+Willa Silbert Cather,1948
+Jon Hassler,1949
+Michael Dorris,1950
+Zelig Pliskin,1951
+Hillary Rodham Clinton,1952
+Allan Gurganus,1953
+Richard Zimler,1954
+Gary Zukav,1955
+Anna Davis,1956
+Laura Childs,1957
+Seth Godin,1958
+Susan Andersen,1959
+Trish Jensen,1960
+Curtiss Matlock,1961
+Mona Simpson,1962
+George Dawson,1963
+Laura Kinsale,1964
+John Miller,1965
+Bonnie Burnard,1966
+Charles Baxter,1967
+Janelle Taylor,1968
+Helen Myers,1969
+Sandra Hill,1970
+Katherine Stone,1971
+Taylor Smith,1972
+Magnus Mills,1973
+Michael Palin,1974
+Charles Palliser,1975
+Harry Mulisch,1976
+Russell Hoban,1977
+Fedor Dostoevsky,1978
+Susan Kay,1979
+Bharati Mukherjee,1980
+Jean Auel,1981
+Carol Saline,1982
+Alan Alexander Milne,1983
+R. Queneau,1984
+Maxence Fermine,1985
+Tonino Benacquista,1986
+Noah Gordon,1987
+Pamela Duncan,1988
+Debbie Ford,1989
+Marla Cilley,1990
+Rand Miller,1991
+Cheryl Richardson,1992
+Lynn Flewelling,1993
+Karin Slaughter,1994
+Robert Newton Peck,1995
+Herman Melville,1996
+Denise Fields,1997
+Lois Duncan,1998
+William W. Johnstone,1999
+Susan Wilson,2000
+Catherine Hart,2001
+Edgar Allan Poe,2002
+Zachary Fox,2003
+Shirley Mcclaine,2004
+Kathleen Demarco,2005
+Martha Moody,2006
+C. E. Poverman,2007
+Liza Crihfield Dalby,2008
+Andy Rooney,2009
+Susan Power,2010
+Ellis Peters,2011
+Wayland Drew (Adapter),2012
+Aaron Naparstek,2013
+Alexander Solzhenitsyn,2014
+Bebe Moore Campbell,2015
+T. C. Boyle,2016
+Karen Kingston,2017
+Brian Hodge,2018
+Kamala Markandaya,2019
+Aldo Leopold,2020
+Tony Kushner,2021
+James Michener,2022
+Amitav Ghosh,2023
+Colin Dexter,2024
+James L. Burke,2025
+Robert L. Asprin,2026
+Edward Albee,2027
+Amanda Cross,2028
+Hubert Selby,2029
+Anne Wilson Schaef,2030
+W. Somerset Maugham,2031
+Anne Rampling,2032
+Jeffery Wilds Deaver,2033
+Tom Savage,2034
+Rebecca Brandewyne,2035
+Jennifer Robertson,2036
+Doris Kearns Goodwin,2037
+Sarah Smith,2038
+Lynn Kurland,2039
+Suzanne Enoch,2040
+Robert Coover,2041
+Fran Drescher,2042
+Edward Kipel,2043
+Janette Oke,2044
+Jane Roberts Wood,2045
+Marian Wells,2046
+Dan Savage,2047
+Doris Lessing,2048
+Leon Uris,2049
+Theodore Taylor,2050
+Robert Adamov,2051
+Joe Mcginniss,2052
+John Gregory Betancourt,2053
+V. E. Mitchell,2054
+Saralee Rosenberg,2055
+Paul Zindel,2056
+J. P. Mccarthy,2057
+James Carroll,2058
+Reynolds Price,2059
+Jay Mcinerney,2060
+Deborah Howe,2061
+Pat Booth,2062
+Chaz Corzine,2063
+Alfred Bester,2064
+Gayle Greeno,2065
+Sean Covey,2066
+Donna Jo Napoli,2067
+Rodman Philbrick,2068
+Amelia Atwater-Rhodes,2069
+Christopher Golden,2070
+Sanami Matoh,2071
+Richie Tankersley Cusick,2072
+Heinrich Boll,2073
+Plenzdorf,2074
+Boris Pasternak,2075
+Fred Mustard Stewart,2076
+V. S. Naipaul,2077
+Brian Lumley,2078
+Elizabeth Sherrill,2079
+Ray Blackston,2080
+Mara Leveritt,2081
+Torey L. Hayden,2082
+Sue Bender,2083
+Jessica Hall,2084
+Stephen Horn,2085
+Stacey Ballis,2086
+Thomas Perry,2087
+Susie Moloney,2088
+Audrey Schulman,2089
+Sarah Webb,2090
+Whitney Lyles,2091
+David Letterman,2092
+Hope Edelman,2093
+James Van Praagh,2094
+Lisa Wingate,2095
+Kay Redfield Jamison,2096
+Alice Gray,2097
+James Huston,2098
+Edgar Rice Burroughs,2099
+Rudyard Kipling,2100
+Ramon J. Sender,2101
+Jonathan Coe,2102
+C. D. Payne,2103
+Pete Mccarthy,2104
+Elizabeth Thornton,2105
+Susan Wiggs,2106
+Kimberly Cates,2107
+Joan Wester Anderson,2108
+Betsy Burke,2109
+Robert Devereaux,2110
+Karyn Bosnak,2111
+Julian Barnes,2112
+Flora Rheta Schreiber,2113
+Sara Nelson,2114
+Barbara Hodgson,2115
+Poppy Brite,2116
+Jodi Thomas,2117
+L. Frank Baum,2118
+Danny Sugarman,2119
+Jill Marie Landis,2120
+Henry James,2121
+Roddy Doyle,2122
+Stephen J. Cannell,2123
+Iris Rainer Dart,2124
+Emilie Richards,2125
+Barry Reed,2126
+Erich Maria Remarque,2127
+"Wayne W. , Dr. Dyer",2128
+Michael R. Eades,2129
+Zachary Alan Fox,2130
+Ron Suskind,2131
+Gabrielle Lord,2132
+Larry Brooks,2133
+Elizabeth Redfern,2134
+J. G. Passarella,2135
+Danny Wallace,2136
+Robert Westbrook,2137
+Matthew J. Reilly,2138
+Todd Strasser,2139
+Donald M. Vickery,2140
+Glade B. Curtis M. D. Ob/Gyn,2141
+Gregory Godek,2142
+Thomas Rockwell,2143
+Antwone Fisher,2144
+Heinrich Harrer,2145
+Nick Mcdonell,2146
+Scott Odell,2147
+Tracy Johnston,2148
+Ayelet Waldman,2149
+Rich Hall,2150
+William J. Bennett,2151
+Andrew A. Rooney,2152
+Robert Lacey,2153
+Eugene Gladstone O.'Neill,2154
+Louise Rafkin,2155
+Sandra Tsing Loh,2156
+Norman Mailer,2157
+Hilary Liftin,2158
+Ellen Emerson White,2159
+Leslie Marmon Silko,2160
+John Douglas,2161
+Dan Clowes,2162
+Chloe Hooper,2163
+Miguel Delibes,2164
+Irving Stone,2165
+Stanislaw Lem,2166
+Margot Batrae,2167
+Amanda Platell,2168
+Sarah Strohmeyer,2169
+"Alfred Tennyson, Baron Tennyson",2170
+Apostolos K. Doxiades,2171
+Daj Sijie,2172
+Vladimir Vladimirovich Nabokov,2173
+David Wiltse,2174
+Sherwood Smith,2175
+Shirley Maclaine,2176
+Martin Page,2177
+Julie Ellis,2178
+Nikki Gemmell,2179
+Michael J. Nelson,2180
+Alexandra Robbins,2181
+Marjane Satrapi,2182
+Linda Castillo,2183
+Ingrid Weaver,2184
+Camryn Manheim,2185
+Ernest Callenbach,2186
+Robert Wilson,2187
+Frank De Felitta,2188
+Jonathan Nasaw,2189
+Jodee Blanco,2190
+George Selden,2191
+Lynn Gordon,2192
+Ruth Park,2193
+Beverley Donofrio,2194
+T. L. Mancour,2195
+Fred Saberhagen,2196
+Maryanne Vollers,2197
+Geoffrey A. Landis,2198
+Jonathan Kirsch,2199
+Barbara Williams,2200
+Dee Henderson,2201
+Norma Klein,2202
+Fred Gipson,2203
+Peter Hedges,2204
+Don Donaldson,2205
+John S. Martel,2206
+Howard Fast,2207
+Black Elk,2208
+Chuck Yeager,2209
+Robert Shea,2210
+P. J. Parrish,2211
+Chris Dyer,2212
+Suzanne Forster,2213
+Eve Forward,2214
+Pete Earley,2215
+Robert R. Mccammon,2216
+Judith Merkle Riley,2217
+Samuel Beckett,2218
+Nancy A. Collins,2219
+Roderick Anscombe,2220
+Pat Frank,2221
+C. Potok,2222
+Betty Mahmoody,2223
+Louis H. Janda,2224
+Jennifer Lynch,2225
+Diane Carey,2226
+Margaret Yorke,2227
+Dick Frances,2228
+Evelyn Rogers,2229
+Nancy Warren,2230
+Rebecca York,2231
+Jean Hegland,2232
+Sylvia Cassedy,2233
+Thom Racina,2234
+John J. Edward,2235
+Judi Barrett,2236
+James Michael Pratt,2237
+Else Holmelund Minarik,2238
+Barbara Cooney,2239
+Julie Gregory,2240
+Richard Price,2241
+Kristine Carlson,2242
+Christina Skye,2243
+Kat Martin,2244
+Walt Disney Productions,2245
+Candace Camp,2246
+Lynne Graham,2247
+Trezza Azzopardi,2248
+Dalai Lama,2249
+Louis L.'Amour,2250
+Robin Burcell,2251
+Nicole Jordan,2252
+Philip Yancey,2253
+Patty Duke,2254
+John Minaham,2255
+Editors Prevention Health Books,2256
+Emma Holly,2257
+Margery Williams Bianco,2258
+Sam Mcbratney,2259
+Jean Hanff Korelitz,2260
+Sarah Willis,2261
+Antoinette Stockenberg,2262
+Leonard Nimoy,2263
+Sophy Burnham,2264
+"Susan, Dr. Forward",2265
+Oswald Chambers,2266
+Barbara Johnson,2267
+Carroll C. Calkins (Editor),2268
+N. E. Thing Enterprises,2269
+Denise Foley,2270
+Bertrice Small,2271
+Diane Chamberlain,2272
+Amy Dacyczyn,2273
+Stephen Gresham,2274
+Susanna Kearsley,2275
+Randy Alcorn,2276
+Constance O.'Day-Flannery,2277
+Herman Wouk,2278
+Jordan Kent,2279
+Sue Harrison,2280
+Chris Stewart,2281
+John Birmingham,2282
+Joan Lindsay,2283
+Kit Williams,2284
+Lyn Hamilton,2285
+Michael Shermer,2286
+Elaine Coffman,2287
+Bruce Zimmerman,2288
+Dana Stabenow,2289
+Joe De Mers,2290
+Bob Larson,2291
+Thornton Niven Wilder,2292
+Anne Moody,2293
+William Irwin,2294
+Anneli S. Rufus,2295
+Janeane Garofalo,2296
+Florian Illies,2297
+John Cramer,2298
+Tania Aebi,2299
+Barbara Wood,2300
+Brian Kramer,2301
+Geneen Roth,2302
+Heather Lowell,2303
+Suze Orman,2304
+Shaun Hutson,2305
+Michael Swanwick,2306
+Jill Barnett,2307
+April Smith,2308
+Evan Hunter,2309
+Graham Swift,2310
+Vincent Lardo,2311
+Kristine Kathryn Rusch,2312
+Anna Aaron,2313
+Jean Sasson,2314
+Nicholas Pileggi,2315
+Jen Sacks,2316
+Lowell Cauffiel,2317
+Phyllis Reynolds Naylor,2318
+L. Christian Balling,2319
+Joanna Elm,2320
+Og Mandino,2321
+Joanne K. Rowling,2322
+Barry Hughart,2323
+Gregory Benford,2324
+Kelly Harte,2325
+George Eliot,2326
+Paul-Loup Sulitzer,2327
+Josephine Cox,2328
+Stephen Ambrose,2329
+Ronda Thompson,2330
+Dana Fuller Ross,2331
+E. E. Cummings,2332
+Sven Regener,2333
+Elyse Guttenberg,2334
+Yasunari Kawabata,2335
+Cherry Muhanji,2336
+Esther Freud,2337
+Theodore Dreiser,2338
+Sara Gruen,2339
+Jeanie London,2340
+Lily Prior,2341
+Edith Layton,2342
+Derrick Jensen,2343
+Karl Marx,2344
+Barry Glassner,2345
+Michael Malone,2346
+Jean Shinoda Bolen,2347
+Olivia St. Claire,2348
+Joanna Cole,2349
+Catherine Aird,2350
+Gaby Hauptmann,2351
+Bette Bao Lord,2352
+Sterling North,2353
+Ron Kovic,2354
+Tom Perrotta,2355
+Sandra Boynton,2356
+G. Bruce Knecht,2357
+Graham Masterton,2358
+Bruce Feiler,2359
+Hugh Lunn,2360
+Jim Crace,2361
+Renate Dorrestein,2362
+Meg Wolitzer,2363
+Piers Paul Read,2364
+James Hilton,2365
+Arthur Clarke,2366
+Jeffrey M. Shaara,2367
+Julia Phillips,2368
+Melissa Nathan,2369
+T. S. Eliot,2370
+B. Stoker,2371
+Dawn J. Ranck,2372
+Carole Wade,2373
+Kenneth Blanchard,2374
+Andrew Md Weil,2375
+Susan Jane Gilman,2376
+Anita Brookner,2377
+Penny Jordan,2378
+Steve Winter,2379
+Robert Silverberg,2380
+Peter James,2381
+Patricia Mccormick,2382
+Gerald Malcolm Durrell,2383
+Debra Salonen,2384
+Tim Winton,2385
+Craig Thomas,2386
+Robert Doherty,2387
+Sergio Bambaren,2388
+Ildiko Von Kurthy,2389
+Samuel Shem,2390
+Pierre Boulle,2391
+Dennis Miller,2392
+Brett Butler,2393
+"James F. , Md. Balch",2394
+Barry Eisler,2395
+Leanne Banks,2396
+Eleanor Estes,2397
+Beryl Markham,2398
+Nancy Price,2399
+Mark Nykanen,2400
+Dennis Mcfarland,2401
+Steve Hamilton,2402
+Benjamin Lebert,2403
+Patrick R. Mcmanus,2404
+Patrick F. Mcmanus,2405
+Not Applicable (Na ),2406
+Marc Tolon Brown,2407
+Clyde Phillips,2408
+Gary Chapman,2409
+Gardner Dozois,2410
+Michele Roberts,2411
+Andy Riley,2412
+Arthur Charles Clarke,2413
+Joseph J. Ellis,2414
+Mary Kay Andrews,2415
+Larry Brown,2416
+Jimmy Carter,2417
+Fred Rogers,2418
+Gary Shteyngart,2419
+Susan Trott,2420
+Joe Weber,2421
+Rose Boyt,2422
+Barbara Shapiro,2423
+Roz Denny Fox,2424
+Rice Anne,2425
+Jonathan Winters,2426
+Farley Mowat,2427
+Thich Nhat Hahn,2428
+Cassandra King,2429
+Charles Todd,2430
+K. Patchen,2431
+Matt Ruff,2432
+Kasey Michaels,2433
+Charles R. Pellegrino,2434
+Mike Daisey,2435
+Jeff Long,2436
+Darian North,2437
+Plum Sykes,2438
+Mike Resnick,2439
+Robert Rankin,2440
+J. G. Ballard,2441
+Sarah Dessen,2442
+Susan Polis Schutz,2443
+Linda Sunshine,2444
+Tananarive Due,2445
+Carol Brennan,2446
+Audrey Wood,2447
+Ben Mezrich,2448
+Jonathan Carroll,2449
+David Feldman,2450
+Lara Cardella,2451
+Simple Simon,2452
+M. J. Carr,2453
+Stephen Jay Gould,2454
+Viktor Emil Frankl,2455
+Philip Friedman,2456
+Bill Clinton,2457
+James Mcmanus,2458
+Julianna Baggott,2459
+Dee Brown,2460
+Paul Loewen,2461
+Ken Weber,2462
+James Baldwin,2463
+Candice F. Ransom,2464
+Mouse Works,2465
+Nikki Giovanni,2466
+David Benioff,2467
+Joseph Gibaldi,2468
+Eileen Dreyer,2469
+Florence Heide,2470
+Rita Dove,2471
+Frank Conroy,2472
+Barbara Mertz,2473
+Mia Farrow,2474
+Sister Souljah,2475
+E. Lynn Harris,2476
+Christopher A. Darden,2477
+Harriet Beecher Stowe,2478
+James Eke,2479
+Clement C. Moore,2480
+Frederick Gipson,2481
+Sally Morgan,2482
+Jeanne Marie Laskas,2483
+Marc Shapiro,2484
+Audrey Osofsky,2485
+Marilyn Manson,2486
+Barbara Nickolae,2487
+Lynne Gerard,2488
+Rosie Thomas,2489
+Bruce E. Robinson,2490
+Andy Mcnab,2491
+Will Self,2492
+John Buchan,2493
+Zhou Wei Hui,2494
+Joanne Trollope,2495
+Barbara Trapido,2496
+Evelyn Waugh,2497
+Kim Izzo,2498
+Gunter Grass,2499
+Martin Amis,2500
+William Garner,2501
+Doug Marlette,2502
+George Martin,2503
+Jane Werner,2504
+Garcia Marques,2505
+Melody Beattie,2506
+Mercer Mayer,2507
+Sarah Hobson,2508
+Harold Coyle,2509
+Kate Wilhelm,2510
+Dee Alexander Brown,2511
+Apostolos Doxiadis,2512
+Davis Bunn,2513
+Grace Llewellyn,2514
+Kalle Lasn,2515
+Benjamin Von Stuckrad-Barre,2516
+Julian May,2517
+Jeannette Haien,2518
+Zeruya Shalev,2519
+Don Freeman,2520
+Charles Smithdeal,2521
+Ben Bova,2522
+Charlotte Link,2523
+Lauren Belfer,2524
+John Robbins,2525
+Alastair Reynolds,2526
+Roger Macbride Allen,2527
+Michael Teitelbaum,2528
+Michael Capuzzo,2529
+Lori Herter,2530
+Joseph Campbell,2531
+Patrick Dennis,2532
+Stephanie Lehmann,2533
+Jaclyn Moriarty,2534
+Steven Sherrill,2535
+C. W. Ceram,2536
+Fred Vargas,2537
+Akiyuki Nosaka,2538
+David Baddiel,2539
+James Bruges,2540
+Patricia Duncker,2541
+Deanna J. Conway,2542
+Cory Doctorow,2543
+Jackie French Koller,2544
+Robert Gordon,2545
+W. P. Kinsella,2546
+Dietrich Schwanitz,2547
+Brothers Hildebrandt,2548
+Joel C. Rosenberg,2549
+Pomegranate Publishers,2550
+Linda Cullen,2551
+Anne Hampson,2552
+Neil Peart,2553
+Linda Barnes,2554
+Ray Romano,2555
+Arthur Koestler,2556
+Sun Tzu,2557
+David Fisher,2558
+Christopher Buckley,2559
+Gary Kinder,2560
+Joseph Joffo,2561
+Georgia Bockoven,2562
+Helen Humphreys,2563
+Judith Ivory,2564
+Metsy Hingle,2565
+Julia Ross,2566
+Maggie Osborne,2567
+Marlene Fanta Shyer,2568
+Serena Richards,2569
+Marian Devon,2570
+Geralyn Dawson,2571
+Elizabeth Chadwick,2572
+Wendy Rosnau,2573
+Philippa Carr,2574
+Karen Young,2575
+Sherryl Woods,2576
+Joan D. Vinge,2577
+Grant Sutherland,2578
+R. J. Pineiro,2579
+Anna Grant,2580
+Steven Callahan,2581
+William Peter Blatty,2582
+Fred Uhlman,2583
+Tom Grace,2584
+Marc Brown,2585
+Lee Gruenfeld,2586
+Sabin Willett,2587
+Lael Littke,2588
+Virginia Deberry,2589
+Ted Menten,2590
+Alison Mcghee,2591
+Rhian Ellis,2592
+Suzanne Lipsett,2593
+Mary Roach,2594
+S. W. Hawking,2595
+C. L. Grace,2596
+Thomas Lynch,2597
+Lucinda Rosenfeld,2598
+Bernard Maclaverty,2599
+Jackie Rose,2600
+Siri Hustvedt,2601
+Irene Hunt,2602
+Sandra Kitt,2603
+Dawn Walker,2604
+Kimberly Willis Holt,2605
+Vernor Vinge,2606
+Chris Radant,2607
+Mindy L. Klasky,2608
+Jerzy N. Kosinski,2609
+Moser Mark Stewart,2610
+Charlotte Allen,2611
+Karen Duve,2612
+Sue Reidy,2613
+Randy Shilts,2614
+Spring Books,2615
+Richard Scarry,2616
+Susannah Constantine,2617
+Antwone Q. Fisher,2618
+Flora R. Schreiber,2619
+Billy Collins,2620
+Charles Sheldon,2621
+Judith Viorst,2622
+H. F. Saint,2623
+Arnaldur Indridason,2624
+Sara Henderson,2625
+Celia Haddon,2626
+A. J. Holt,2627
+Julie Bertangna,2628
+Bandula Chandraratna,2629
+David Lindsey,2630
+Shirley Conran,2631
+Reginald Hill,2632
+Roxanne Pulitzer,2633
+Ted Andrews,2634
+Wilhelm Genazino,2635
+Cynthia Victor,2636
+Allen Kurzweil,2637
+Sid Fleischman,2638
+Marilyn Wann,2639
+Owen West,2640
+Anne Bronte,2641
+Ken Goddard,2642
+Bill O.'Reilly,2643
+Lou Marinoff,2644
+Ian Banks,2645
+Lao Tzu,2646
+Marguerite De Angeli,2647
+Akif Pirincci,2648
+P. C. Hodgell,2649
+Annie Solomon,2650
+Stella Cameron,2651
+Robin Schone,2652
+Jenny Carroll,2653
+Salley Vickers,2654
+Laura Renken,2655
+Christiane Heggan,2656
+Tori Carrington,2657
+Mick Foley,2658
+Brennan Manning,2659
+Joe Coomer,2660
+Laura Marie Altom,2661
+Jasmine Cresswell,2662
+Anton Szandor Lavey,2663
+Ben Stiller,2664
+Harvard Lampoon Staff,2665
+Paul Gallico,2666
+Arthur Agatston,2667
+Lee A. Iacocca,2668
+Philippe Tapon,2669
+Carol Anshaw,2670
+Elizabeth Graver,2671
+Richard Morgan,2672
+Boris Akunin,2673
+Thornton Wilder,2674
+Tom Holt,2675
+Alison Weir,2676
+Peter Hernon,2677
+James D. Houston,2678
+Frances Fyfield,2679
+Eugene O.'Neill,2680
+Tama Janowitz,2681
+Camron Wright,2682
+Vincent Douglas,2683
+Katherine Ann Porter,2684
+Roberta Gayle,2685
+Connie Mason,2686
+Madeline Hunter,2687
+Matt Groening,2688
+Carolyn Meyer,2689
+Henry Van Dyke,2690
+Meghan Daum,2691
+Melanie Craft,2692
+Eliot Pattison,2693
+Lisa Tucker,2694
+Helen R. Myers,2695
+Meagan Mckinney,2696
+Kurt D. Bruner,2697
+John Sergeant,2698
+Joe Kane,2699
+Stephen Laws,2700
+Albert B. Facey,2701
+Emily Rodda,2702
+Andrea Ashworth,2703
+Justine Davis,2704
+Darlene Graham,2705
+Lynn Erickson,2706
+Beverly Barton,2707
+R. D. Zimmerman,2708
+Helene Tursten,2709
+Naishan Cheng,2710
+Douglas Clegg,2711
+Jill Jones,2712
+Gregg Kleiner,2713
+Brendan O.'Carroll,2714
+Katy Gardner,2715
+Marjorie Kinnan Rawlings,2716
+Nancy Fisher,2717
+Mary Balogh,2718
+Thaddeus Carhart,2719
+Juliet Marillier,2720
+Author Unknown,2721
+William Goldi;Ng,2722
+Elizabeth Moon,2723
+Don Fearheiley,2724
+Cynthia Kaplan,2725
+Margaret Daley,2726
+Jeanne Kalogridis,2727
+Cara Lockwood,2728
+Kenneth M. Cameron,2729
+Noel Hynd,2730
+Emma Bull,2731
+Annette Curtis Klause,2732
+Eloisa James,2733
+K. Jackson,2734
+Karen Kingsbury,2735
+Robin Jones Gunn,2736
+Paul Maier,2737
+Craig Dirgo,2738
+Little Golden Staff,2739
+Katherine Applegate,2740
+Eva Ibbotson,2741
+Jincy Willett,2742
+Susan G. Lydon,2743
+Robert Munsch,2744
+Herbert Asbury,2745
+Dorothy Parker,2746
+Gail Anderson-Dargatz,2747
+Sara Nickles,2748
+Trevor Rees-Jones,2749
+Marele Day,2750
+Susan Krinard,2751
+Mem Fox,2752
+Fay Nedra Zachary,2753
+Jo Goodman,2754
+Renгѓ?Г‚В© Barjavel,2755
+Jim Carroll,2756
+Christ Brookmyre,2757
+Richard Zacks,2758
+Henri De La Barbe,2759
+Ross Petras,2760
+Robert Frost,2761
+Barb Hendee,2762
+Caroline Stevermer,2763
+Ian Montgomery,2764
+Hakan Nesser,2765
+Anne Cameron,2766
+Eric L. Harry,2767
+J. Coe,2768
+Joanna Martine Woolfolk,2769
+Don H. Hockenbury,2770
+Mark Canter,2771
+Richard Paul Russo,2772
+Amanda Ashley,2773
+Dara Joy,2774
+Kevyn Aucoin,2775
+Lisa Appignanesi,2776
+Chris Manby,2777
+Michael Kimball,2778
+Terry Southern,2779
+Barbara Cartland,2780
+Rush Limbaugh,2781
+Elizabeth Haydon,2782
+Aphrodite Jones,2783
+Michael Weaver,2784
+Leigh Nichols,2785
+B. F. Skinner,2786
+Anne Stuart,2787
+Jerome Klapka Jerome,2788
+Julie Parsons,2789
+Barbara Bretton,2790
+Ja Collins,2791
+Philippe Delerm,2792
+Gion Mathias Cavelty,2793
+Jerry Mander,2794
+Dieter Bohlen,2795
+Zoe Heller,2796
+Paul Eddy,2797
+Regis Philbin,2798
+John G. Neihardt,2799
+Diane Molleson,2800
+Kris Radish,2801
+Olga Bicos,2802
+Gina Wilkins,2803
+Albert French,2804
+Marya Hornbacher,2805
+Corinne Hofmann,2806
+Dorothy Leigh Sayers,2807
+Queen Noor,2808
+Doris May Lessing,2809
+Nancy Bazelon Goldstone,2810
+Jeff Noon,2811
+Heather Busch,2812
+John Macdonald,2813
+Marc Brandel,2814
+Ken Roy,2815
+John Hodge,2816
+Sally Emerson,2817
+Huston Smith,2818
+Christian Jacq,2819
+Gary Smalley,2820
+William Nicholson,2821
+Lisa Whelchel,2822
+Eric Flint,2823
+Anthony Swofford,2824
+Anya Seton,2825
+Lori Gottlieb,2826
+George Sullivan,2827
+Rachel Lee,2828
+Laura Wright,2829
+Owen Brookes,2830
+James Siegel,2831
+Charles Santore,2832
+Teresa Toten,2833
+Stephen Kyle,2834
+James Magnuson,2835
+Trinny Woodall,2836
+Robert Lanham,2837
+Damoe Steel,2838
+Elizabeth Faucher,2839
+Emily Hutchinson,2840
+Marjorie Klein,2841
+C. J. Cherryh,2842
+Jane Rule,2843
+Liz Carlyle,2844
+Michael Grant,2845
+Rachael L. Carson,2846
+Katherine Kingsley,2847
+Frederick Douglass,2848
+Natalie Angier,2849
+Lurlene Mcdaniel,2850
+Lindsey Davis,2851
+Robert Fitzgerald,2852
+Catherine Gaskin,2853
+Daniel Hayes,2854
+David Mcphail,2855
+Amy Yamada,2856
+Charles Pellegrino,2857
+John Farris,2858
+Elaine Cunningham,2859
+Tim Footman,2860
+Matthew Thomas,2861
+Mickey Friedman,2862
+Charles Sheffield,2863
+Luke Davies,2864
+Howard Phillips Lovecraft,2865
+Michael Herr,2866
+Lindsay Chase,2867
+Barbara Harrison,2868
+Joseph Amiel,2869
+Elizabeth Fishel,2870
+Helen Morris,2871
+Erik Orsenna,2872
+Hailey North,2873
+Dave Dravecky,2874
+Jorge Luis Borges,2875
+Nikos Kazantzakis,2876
+David Halberstam,2877
+Brian Hall,2878
+Lao-Tzu,2879
+Bill Buchanan,2880
+Harry Crews,2881
+Debra Dier,2882
+Tony Wheeler,2883
+Ruth Stiles Gannett,2884
+Florence Parry Heide,2885
+P. G. Wodehouse,2886
+Steve Vogel,2887
+William Kennedy,2888
+George Hay,2889
+David P. Jordan,2890
+Bill G. Cox,2891
+Rudolph W. Giuliani,2892
+Karen Hall,2893
+Gene Simmons,2894
+Rebecca Gable,2895
+David Locke,2896
+Diane Hoh,2897
+Robin Lee Hatcher,2898
+Andrea Camilleri,2899
+Brian Froud,2900
+John Gribbin,2901
+Sandra Gulland,2902
+Marilyn Harris,2903
+Baine Kerr,2904
+Sara Davidson,2905
+Jerry Dan Hopkins,2906
+Laurie Garrett,2907
+A. B. Facey,2908
+Ana Frank,2909
+Victoria Poole,2910
+P. T. Deutermann,2911
+Elizabeth Southall,2912
+Sean Doolittle,2913
+Dian Fossey,2914
+Walter Satterthwait,2915
+Didier Van Cauwelaert,2916
+Robert Daley,2917
+Brian Haig,2918
+Barbara Erskine,2919
+Richard Wright,2920
+Julia Hill,2921
+Robert Fagles,2922
+Robert Dana,2923
+Bernard Goldberg,2924
+Nikos Kazantzakes,2925
+Choderlos De Laclos,2926
+Laura Lanier,2927
+Erich M. Remarque,2928
+Laura Joffe Numeroff,2929
+Richard Branson,2930
+Sinclair Ross,2931
+Daniel Clowes,2932
+G. K. Chesterton,2933
+Laurie King,2934
+Tonya Pines,2935
+L.'Engle Madelein,2936
+Loup Durand,2937
+Adam Barrow,2938
+Rochelle Majer Krich,2939
+Bill Eidson,2940
+Will Huygen,2941
+Suzette Haden Elgin,2942
+Phil Jackson,2943
+Harriet Scott Chessman,2944
+Thomas H. Block,2945
+Anna Salter,2946
+Rona Jaffe,2947
+A. C. Bhaktivedanta Swami Prabhupada Et Al.,2948
+C. Bronte,2949
+Carole Berry,2950
+Marianne Wiggins,2951
+Jenny Siler,2952
+Marilyn Wallace,2953
+Steven R. Boyett,2954
+Jim Brown,2955
+Angela Johnson,2956
+Steven Boyett,2957
+Bill Broady,2958
+Buchi Emecheta,2959
+Cynthia Blair,2960
+Pam Young,2961
+Anthony Robinson,2962
+Lao Tsu,2963
+Willie Morris,2964
+Larcenet,2965
+H. Melville,2966
+Jerome David Salinger,2967
+C. S. Friedman,2968
+Chuck Klosterman,2969
+Marilyn Monroe,2970
+Philip Shelby,2971
+Lynne Ewing,2972
+C. J. Box,2973
+Robert K. Massie,2974
+David Hagberg,2975
+Golda Mier,2976
+Echo Heron,2977
+Barbara Carlson,2978
+Patrick J. Mcmanus,2979
+Nora Kelly,2980
+Victoria Glendinning,2981
+Simon Singh,2982
+Clarke C.,2983
+Simon R. Green,2984
+Dc Talk,2985
+Caitlin R. Kiernan,2986
+Debra Doyle,2987
+Cameron West,2988
+Alice Low,2989
+Hal Borland,2990
+Jacqueline Woodson,2991
+Susan Bowden,2992
+Manuel Rivas,2993
+"Robert C. , Md. Atkins",2994
+Mary Shelley,2995
+Stuart Harrison,2996
+Tom Nelson,2997
+Ruby Jean Jensen,2998
+Phyllis Naylor,2999
+Bapsi Sidhwa,3000
+Mary Packard,3001
+Seamus Heaney,3002
+John Nichols,3003
+Gemma Fox,3004
+Peter Cameron,3005
+Walter Miller,3006
+Soheir Khashoggi,3007
+Fyodor Dostoevdky,3008
+A. M. Jenkins,3009
+Janet Wallach,3010
+Tim Miller,3011
+Derek Hansen,3012
+Cyril Hare,3013
+Katharine Kerr,3014
+Betty Ren Wright,3015
+Alison Fraser,3016
+P. Yogananda,3017
+Louise Welsh,3018
+Brenda Jackson,3019
+Burl Barer,3020
+Mike Maccaskey,3021
+Theo. Bergstrг‚?Om,3022
+Daphnгѓ?Г‚В© Du Maurier,3023
+W. R. Philbrick,3024
+Jamie Denton,3025
+Norah Hess,3026
+Fyodor M. Dostoevsky,3027
+Ed Smart,3028
+Tamara Thorne,3029
+Harold Robbins,3030
+Karen Novak,3031
+Victoria Pade,3032
+Tom Tryon,3033
+William Criswell,3034
+William Christopher,3035
+Mariann Hybels-Steer,3036
+Jessica Blair,3037
+Lester A. Lefton,3038
+Felipe Fernandez-Armesto,3039
+O.'Dell Scott,3040
+Gwendolyn Brooks,3041
+Richard E. Grant,3042
+Jim Keeble,3043
+Anne Logston,3044
+Paulo Coehlo,3045
+Tony Thorne,3046
+Raymond Briggs,3047
+Robin Heath,3048
+David Brown,3049
+Terry L. Craig,3050
+Tom James Wolfe,3051
+Joanna Wissinger,3052
+J. N. Williamson,3053
+Henri Matisse,3054
+George Turner,3055
+Celia Brayfield,3056
+Patrick O.'Leary,3057
+William Harrington,3058
+Ayun Halliday,3059
+Steinbeck J.,3060
+Erica James,3061
+Dallas Schulze,3062
+Richard N. Patterson,3063
+John Donne,3064
+Sinclair Lewis,3065
+F. V. Dawes,3066
+Pitman Jenny,3067
+Eva Ebbotson,3068
+George F. Will,3069
+Steven Emerson Swerdfeger,3070
+Rick Warren,3071
+Daniel Easterman,3072
+Cathy Gillen Thacker,3073
+L. R. Wright,3074
+Golden Books,3075
+White E. Emerson,3076
+Tim Parks,3077
+"H. Jackson, Jr. Brown",3078
+Kathryn Caskie,3079
+Bruce And Carol Hart,3080
+Jennings M. Burch,3081
+Walter Simonson,3082
+Laurie Lawlor,3083
+Brian Blessed,3084
+Jack Mcdevitt,3085
+Anita Burgh,3086
+Wordsworth,3087
+Leona Blair,3088
+Patricia Potter,3089
+Michael Cecilione,3090
+Oliver North,3091
+Katherine Deauxville,3092
+Whitney Gaskell,3093
+Shana Abe,3094
+Rudolph Giuliani,3095
+Anne Robins,3096
+Bathroom Reader Institute,3097
+Katherine Sutcliffe,3098
+Mary Sheldon,3099
+Reinaldo Arenas,3100
+Penelope Neri,3101
+Caroline Carver,3102
+Timothy James Beck,3103
+Kathryn Reines,3104
+Carol Berg,3105
+Hannah Green,3106
+Alan Rodgers,3107
+Linda Barlow,3108
+Eva Hoffman,3109
+Chet Williamson,3110
+James M. Barrie,3111
+Macinnes,3112
+Erin St. Claire,3113
+Rudolfo A. Anaya,3114
+Roy Lewis,3115
+Graham Watkins,3116
+Jonellen Heckler,3117
+Harry Turtledove,3118
+H. C. Andersen,3119
+Levar Burton,3120
+Jessica Bird,3121
+Justine Dare,3122
+Pamela Britton,3123
+Laura Young,3124
+Ian Stewart,3125
+Theresa Monsour,3126
+Marcus Wynne,3127
+Sharon K. Garner,3128
+Beth Ciotta,3129
+Nan Ryan,3130
+Randall Ingermanson,3131
+Marilyn Meredith,3132
+Archer Mayor,3133
+L. C. Martin,3134
+Rexanne Becnel,3135
+Jenifer Ruth,3136
+Joyce Lamb,3137
+Nancy Geary,3138
+John Altman,3139
+Brian Stableford,3140
+Susan Crandall,3141
+Karen White,3142
+Heather Cullman,3143
+Beth Pattillo,3144
+Linda Dominique Grosvenor,3145
+Barry Hoffman,3146
+Joe W. Haldeman,3147
+Emma Brookes,3148
+Kit Ehrman,3149
+Jane Graves,3150
+Kevin Mccarthy,3151
+Melanie Jackson,3152
+Renee Halverson,3153
+Cathy Kelly,3154
+Alan Russell,3155
+Spirit Walker,3156
+Sian James,3157
+G. M. Ford,3158
+Kathleen George,3159
+Patricia Grace,3160
+Sheila Garrigue,3161
+Rhiannon Lassiter,3162
+Fabio,3163
+Martha Wells,3164
+Denise Danks,3165
+Jim Debrosse,3166
+Malcolm Macdonald,3167
+Kurt Bruner,3168
+Barbara L. O.'Neill,3169
+Thad Carhart,3170
+Yukio Mishima,3171
+Gina Ingoglia,3172
+Betty Malz,3173
+Sunzi,3174
+Peter Gray,3175
+Virginia Hamilton,3176
+Hubert Jr Selby,3177
+Meredy Maynard,3178
+Tessa De Loo,3179
+Dawna Markova,3180
+Larry Collins,3181
+Holderlin,3182
+Bethany Campbell,3183
+Paul L. Maier,3184
+Andrea Dworkin,3185
+Christopher Brookmyre,3186
+"Earvin \Magic\"" Johnson""",3187
+Christinia Crawford,3188
+Robert Whitlow,3189
+Mary Kingsley,3190
+Cecil Frances Alexander,3191
+John Mortimer,3192
+Jeff E. Toghill,3193
+Doubleday And Company,3194
+Zyke,3195
+Anna Cheska,3196
+M. Christian,3197
+M. J. Rodgers,3198
+Kenneth Fearing,3199
+Christopher A. Bohjalian,3200
+Tomas Moro,3201
+Cynthia Bass,3202
+St. Augustine,3203
+Ruth Minsky Sender,3204
+Shirlee Busbee,3205
+Stephanie Mittman,3206
+John Russo,3207
+Susan Shwartz,3208
+Eldon Grier,3209
+Jessie Prichard Hunter,3210
+Jo-Ann Power,3211
+Jennifer Archer,3212
+Terry Tempest Williams,3213
+Stephen Spender,3214
+Jack Anderson,3215
+Michael Sullivan,3216
+Ben Weaver,3217
+Alice Adams,3218
+Richard Setlowe,3219
+Michener A.,3220
+Anne Mather,3221
+Teresa Moorey,3222
+Donald Vickery,3223
+Tom Smith,3224
+Joan Weigall Lindsay,3225
+Arthur Lyons,3226
+Bill Pronzini,3227
+Brian Coffey,3228
+Stanislav Lem,3229
+Kathleen Woodiwiss,3230
+Teri Holbrook,3231
+Ron Rhodes,3232
+C. Coco De Young,3233
+Ken Mcclure,3234
+Mark O. Sullivan,3235
+Jill Mcgown,3236
+David G. Uterson,3237
+Mary Summer Rain,3238
+Joan Grant,3239
+Erich Fried,3240
+Alan Gibbons,3241
+Terence Munsey,3242
+Jonathan Valin,3243
+Gary Cartwright,3244
+Niccolгѓві Machiavelli,3245
+Charles Baudelaire,3246
+John Toland,3247
+Betina Krahn,3248
+Greg Johnson,3249
+Henry Luk,3250
+Cassie Edwards,3251
+Stearn Robinson,3252
+Kathryn Kramer,3253
+Sue Thomas,3254
+"Iris, D. Rainer",3255
+Ester Wier,3256
+Gordon Dickson,3257
+J. M. Barrie,3258
+Nette Hilton,3259
+Victor E. Frankl,3260
+Janet Inglis,3261
+Jane Howard,3262
+Beverly Hastings,3263
+Brian Patten,3264
+Elizabeth Feuer,3265
+T. T. Gunn,3266
+Jonathan Ryder,3267
+Richard Paige,3268
+Books Tor,3269
+Eric A. Kimmel,3270
+Teresa Mcclain-Watson,3271
+David Sosnowski,3272
+Robert Steele Gray,3273
+Mary Lee Settle,3274
+Toni Goffe,3275
+Welwyn Wilton Katz,3276
+Ellen Miles,3277
+Astrid Lindgren,3278
+Marcelle Bernstein,3279
+John Griffin,3280
+Rein Poortvliet,3281
+Robert Burns,3282
+Lesley Glaister,3283
+Joanne Stepaniak,3284
+Shelby Hearon,3285
+Thomas Tessier,3286
+Sonia Levitin,3287
+Ralph Gustafson,3288
+K. M. Swan,3289
+Hans Ulrich Treichel,3290
+Lucinda Edmonds,3291
+Melanie Tem,3292
+"Adrian And Talley, Steven Malone",3293
+Todd Gitlin,3294
+Manly Wade Wellman,3295
+Elizabeth Jolley,3296
+Norma Elena D.' Aguilar,3297
+Netco Partners,3298
+Blaine M. Yorgason,3299
+Georgia Di Donato,3300
+B. Greene,3301
+Jason O.'Neal Williams,3302
+Margaret Mahy,3303
+Dave Warner,3304
+M. Bernall,3305
+Houghton Mifflin Company,3306
+Linda Jones,3307
+Rosamond Smith,3308
+Tom Grimes,3309
+Stephanie Busuttil-Cesar,3310
+Sun-Tzu,3311
+Amгѓв©Lie Nothomb,3312
+Patricia Springer,3313
+Isadora Duncan,3314
+Luis Martinг‚В­Santos,3315
+Richard R. Lederer,3316
+Jen Mcveity,3317
+Joan Wolf,3318
+David Lubar,3319
+Iurii Karlovich Olesha,3320
+Michael Carson,3321
+Stevie Smith,3322
+Sarah Brown,3323
+Alan Dugan,3324
+Angus Wells,3325
+Camron Steve Wright,3326
+Emma Kaufmann,3327
+William Huggett,3328
+John Ratti,3329
+Hal Lindsey,3330
+Jean George,3331
+Kathy Hill,3332
+Merline Lovelace,3333
+Kelly G. Shaver,3334
+Felicia Catching,3335
+Frank Scott,3336
+Anne Rooth,3337
+Mary Monica Pulver,3338
+Jean R. Ewing,3339
+Lori Paris,3340
+Robert L. Stevenson,3341
+Garry Kilworth,3342
+Judith O.'Brien,3343
+Rachel Anderson,3344
+Remy Charlip,3345
+Philip Dick,3346
+Becky Barker,3347
+Paramahansa Yogananda,3348
+Linda Caine,3349
+Susan Mitchell,3350
+David Jorgensen,3351
+C. J. Anders,3352
+Merle Collins,3353
+May Mcgoldrick,3354
+Leslie Li,3355
+Chris Niles,3356
+Frank Simon,3357
+Elizabeth Travis,3358
+Madeline Dorr,3359
+Apollo Trust,3360
+Marjorie Carleton,3361
+Mian Mian,3362
+Marilyn Campbell,3363
+Karin Fossum,3364
+Carl Sandburg,3365
+Michael Crummey,3366
+Laurence Klavan,3367
+Lynda Trent,3368
+Michael J. Lynch,3369
+Iris Gower,3370
+Linda Windsor,3371
+Dan Waddell,3372
+Fynn,3373
+Greg Hildebrandt,3374
+Lynn Turner,3375
+Emma Merritt,3376
+Cynthia Strickland,3377
+Mike Connor,3378
+Nancy Baker Jacobs,3379
+Judith Barrett,3380
+Willo Davis Roberts,3381
+Primo Levi,3382
+Francis Roe,3383
+Eileen Kernaghan,3384
+Doris Vallejo,3385
+Talmadge-Bickmore Deborah,3386
+Marius Gabriel,3387
+Susan Smith,3388
+Lawrence Ferlinghetti,3389
+James Cummins,3390
+Galway Kinnell,3391
+Peter Lorie,3392
+Nancy Tay Rosenberg,3393
+Readers Di,3394
+Elizabeth Evans,3395
+David G. Myers,3396
+Garuda,3397
+Lily Brett,3398
+Malcolm Godwin,3399
+Edna St. Vincent Millay,3400
+Frank Cassedy Wilkinson,3401
+Mary Ellen Brown Carlson,3402
+John Camp,3403
+W. H. Auden,3404
+Kit Pearson,3405
+Maria Barrett,3406
+Sheneska Jackson,3407
+Stephen F. Davis,3408
+Steve White,3409
+Stephanie Kane,3410
+Athena Alexis,3411
+Eve Bunting,3412
+"Freddie Lee, Iii Johnson",3413
+Bert Brunet,3414
+National Book Award,3415
+Tom Mcgregor,3416
+James Mills,3417
+Brock Cole,3418
+Patricia Wilson,3419
+Caryl Churchill,3420
+Arthur Janov,3421
+Geoffrey Garrett,3422
+Edward Jay Epstein,3423
+Gary M. Lavergne,3424
+Helen Mittermeyer,3425
+Steven W. Wise,3426
+Victor E. Villasenor,3427
+Catharine Clement,3428
+Barbara Whitnell,3429
+Kathleen Cross,3430
+Aleen Malcolm,3431
+John Ashbery,3432
+Philip Steele,3433
+Robert Kalan,3434
+H. C. Anderson,3435
+Noel Streatfeild,3436
+Anon.,3437
+John Arcudi,3438
+Clement Moore,3439
+"Thomas, Sir More",3440
+Karen Ranney,3441
+Dennis Mccallum,3442
+Arnold C. Stream,3443
+Jean Bedford,3444
+Colin Thiele,3445
+Katie Rose,3446
+Richard Maynard,3447
+Brian Wildsmith,3448
+I. Singer,3449
+Tracy Hickman,3450
+Liz Byrski,3451
+Edna Obrien,3452
+"Ben, Dr Bova",3453
+Geert Mak,3454
+Frances Towner Giedt,3455
+John Harvey,3456
+Yvonne Macmanus,3457
