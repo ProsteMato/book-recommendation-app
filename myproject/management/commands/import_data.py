@@ -2,74 +2,45 @@ import pandas as pd
 import os
 from django.core.management.base import BaseCommand
 from myproject.models import Author, Book, Publisher, User, Rating
+from sqlalchemy import create_engine
+from django.conf import settings
 
 class Command(BaseCommand):
     help = 'Import data from CSV files into the database using Pandas and bulk_create'
 
     def handle(self, *args, **kwargs):
-        self.import_authors()
+
+        # Extract database settings from Django
+        db_settings = settings.DATABASES['default']
+        engine = create_engine(f"postgresql://{db_settings['USER']}:{db_settings['PASSWORD']}@{db_settings['HOST']}:{db_settings['PORT']}/{db_settings['NAME']}")
+        
+        self.import_authors(engine)
         self.stdout.write(self.style.SUCCESS('Authors imported!'))
-        self.import_publishers()
+        self.import_publishers(engine)
         self.stdout.write(self.style.SUCCESS('Publishers imported!'))
-        self.import_books()
+        self.import_books(engine)
         self.stdout.write(self.style.SUCCESS('Books imported!'))
-        self.import_users()
+        self.import_users(engine)
         self.stdout.write(self.style.SUCCESS('Users imported!'))
-        self.import_ratings()
+        self.import_ratings(engine)
         self.stdout.write(self.style.SUCCESS('Ratings imported!'))
 
-    def import_authors(self):
+    def import_authors(self, engine):
         df = pd.read_csv(os.path.join('myproject', 'data', 'postprocess', 'authors.csv'))
-        authors = [Author(id=row['id'], name=row['name']) for _, row in df.iterrows()]
-        Author.objects.bulk_create(authors, ignore_conflicts=True)
+        df.to_sql('myproject_author', con=engine, if_exists='append', index=False)
 
-    def import_publishers(self):
+    def import_publishers(self, engine):
         df = pd.read_csv(os.path.join('myproject', 'data', 'postprocess', 'publishers.csv'))
-        publishers = [Publisher(id=row['id'], name=row['name']) for _, row in df.iterrows()]
-        Publisher.objects.bulk_create(publishers, ignore_conflicts=True)
+        df.to_sql('myproject_publisher', con=engine, if_exists='append', index=False)
 
-    def import_books(self):
+    def import_books(self, engine):
         df = pd.read_csv(os.path.join('myproject', 'data', 'postprocess', 'books.csv'))
-        books = []
-        for _, row in df.iterrows():
-            author = Author.objects.get(id=row['author_id'])
-            publisher = Publisher.objects.get(id=row['publisher_id'])
-            books.append(Book(
-                id=row['id'],
-                isbn=row['isbn'],
-                title=row['title'],
-                year_of_publication=row['year_of_publication'],
-                image_url_s=row['image_url_s'],
-                image_url_m=row['image_url_m'],
-                image_url_l=row['image_url_l'],
-                author=author,
-                publisher=publisher
-            ))
-        Book.objects.bulk_create(books, ignore_conflicts=True)
+        df.to_sql('myproject_book', con=engine, if_exists='append', index=False)
 
-    def import_users(self):
+    def import_users(self, engine):
         df = pd.read_csv(os.path.join('myproject', 'data', 'postprocess', 'users.csv'))
-        users = []
-        for _, row in df.iterrows():
-            users.append(User(
-                id=row['id'],  # Assuming 'user_id' is the column in the CSV
-                age=row['age'] if pd.notna(row['age']) else None,
-                city=row['city'],
-                state=row['state'] if pd.notna(row['state']) else None,
-                country=row['country']
-            ))
-        User.objects.bulk_create(users, ignore_conflicts=True)
+        df.to_sql('myproject_user', con=engine, if_exists='append', index=False)
 
-    def import_ratings(self):
+    def import_ratings(self, engine):
         df = pd.read_csv(os.path.join('myproject', 'data', 'postprocess', 'ratings.csv'))
-        ratings = []
-        for _, row in df.iterrows():
-            user = User.objects.get(id=row['user_id'])
-            book = Book.objects.get(isbn=row['isbn'])
-            ratings.append(Rating(
-                id=row['id'],
-                user=user,
-                book=book,
-                book_rating=row['book_rating']
-            ))
-        Rating.objects.bulk_create(ratings, ignore_conflicts=True)
+        df.to_sql('myproject_ratings', con=engine, if_exists='append', index=False)

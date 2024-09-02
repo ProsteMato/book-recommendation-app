@@ -31,9 +31,9 @@ class Book(models.Model):
 class User(models.Model):
     id = models.IntegerField(primary_key=True)
     age = models.PositiveIntegerField(null=True, blank=True)
-    city = models.CharField(max_length=255)
+    city = models.CharField(max_length=255, null=True, blank=True)
     state = models.CharField(max_length=255, null=True, blank=True)
-    country = models.CharField(max_length=255)
+    country = models.CharField(max_length=255, null=True, blank=True)
 
     def __str__(self):
         return f'User {self.id}'
