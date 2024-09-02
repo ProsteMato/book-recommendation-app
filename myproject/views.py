@@ -24,7 +24,12 @@ def search_books(request):
     books_with_ratings = Rating.objects.select_related('book', 'book__author').annotate(
         lower_title=Lower('book__title')
     ).values(
+        'book__id',
+        'book__author__id',
         'lower_title',
+        'book__title',
+        'book__author__name',
+        'book__image_url_l',
         'book_rating',
         'user__id'
     )

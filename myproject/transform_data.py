@@ -156,10 +156,16 @@ def main():
     books, authors, publishers = create_author_and_publisher_df(books)
     
     print("Renaming")
+    
+    books.reset_index(drop=True, inplace=True)
+    books['id'] = books.index + 1
+    
+    ratings = ratings.merge(books[["id", "ISBN"]], on="ISBN", how="left").drop(columns=["ISBN"])
+    
     ratings = ratings.rename(columns={
         "User-ID": "user_id",
-        "ISBN": "isbn",
         "Book-Rating": "book_rating",
+        "id": "book_id"
     })
     
     books = books.rename(columns={
@@ -176,11 +182,9 @@ def main():
         "Age": "age"
     })
     
-    books.reset_index(drop=True, inplace=True)
     users.reset_index(drop=True, inplace=True)
     ratings.reset_index(drop=True, inplace=True)
     
-    books['id'] = books.index + 1
     users['id'] = users.index + 1
     ratings['id'] = ratings.index + 1
     

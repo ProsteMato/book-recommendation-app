@@ -43,4 +43,4 @@ class Command(BaseCommand):
 
     def import_ratings(self, engine):
         df = pd.read_csv(os.path.join('myproject', 'data', 'postprocess', 'ratings.csv'))
-        df.to_sql('myproject_ratings', con=engine, if_exists='append', index=False)
+        df.to_sql('myproject_rating', con=engine, if_exists='append', index=False)
