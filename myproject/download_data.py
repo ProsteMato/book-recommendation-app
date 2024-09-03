@@ -6,7 +6,6 @@ def download_data():
     api = KaggleApi()
     api.authenticate()
 
-    # Download Titanic dataset
     dataset = 'arashnic/book-recommendation-dataset'
     download_path = './data/dataset'
     api.dataset_download_files(dataset, path=download_path, unzip=True)
